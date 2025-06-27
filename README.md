@@ -21,7 +21,6 @@
   - 🛍️ *Shopla* – A modern e-commerce site with HTML/CSS and JavaScript  
   - 📱 *Design Concepts* – Practicing UI layouts and color theory for web and mobile  
 - 🌱 **Currently Learning (Actively):**
-  - 🔧 `Flask`, `API Integration`, `Database Design`  
   - 🎨 `HTML`, `CSS`, `UI Design Principles`  
   - 🧠 `Python`, `SQL`, `Logical Thinking`  
   - 🎼 **Music Theory** & **Guitar Performance**  
