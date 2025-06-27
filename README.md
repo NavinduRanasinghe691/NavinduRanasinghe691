@@ -56,6 +56,14 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" width="40" height="40"/>
 </p>
 
+<h3>🎵 Music Production</h3>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/4e/FL_Studio_Logo.png" width="40" height="40" alt="FL Studio"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Audacity_Logo_2021.svg" width="40" height="40" alt="Audacity"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Adobe_Audition_CC_icon.svg" width="40" height="40" alt="Adobe Audition"/>
+</p>
+
+
 ---
 
 ## 📊 GitHub Stats
