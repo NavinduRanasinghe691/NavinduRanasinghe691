@@ -60,13 +60,20 @@
 <p align="left">
   <!-- FL Studio -->
   <img src="https://img.icons8.com/color/48/000000/fl-studio.png" width="40" height="40" alt="FL Studio"/>
-  
-  <!-- Audacity -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Audacity_Logo.svg" width="40" height="40" alt="Audacity"/>
+  </p>
 
-  <!-- Adobe Audition -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Adobe_Audition_CC_icon_%282020%29.svg" width="40" height="40" alt="Adobe Audition"/>
+  <h3>🎨 Graphic & Video Editing</h3>
+<p align="left">
+  <!-- Adobe Photoshop -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" alt="Photoshop"/>
+
+  <!-- CorelDRAW -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/CorelDRAW_X7_Icon.png" width="40" height="40" alt="CorelDRAW"/>
+
+  <!-- Adobe Premiere Pro -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Adobe_Premiere_Pro_CC_icon.svg" width="40" height="40" alt="Premiere Pro"/>
 </p>
+
 
 
 
