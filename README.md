@@ -64,15 +64,8 @@
 
   <h3>🎨 Graphic & Video Editing</h3>
 <p align="left">
-  <!-- Adobe Photoshop -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" alt="Photoshop"/>
 
-  <!-- CorelDRAW -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/CorelDRAW_X7_Icon.png" width="40" height="40" alt="CorelDRAW"/>
-
-  <!-- Adobe Premiere Pro -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Adobe_Premiere_Pro_CC_icon.svg" width="40" height="40" alt="Premiere Pro"/>
-</p>
 
 
 
