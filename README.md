@@ -56,8 +56,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NavinduRanasinghe&show_icons=true&theme=rose_pine" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinduRanasinghea&layout=compact&theme=rose_pine" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NavinduRanasinghe691&show_icons=true&theme=rose_pine" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinduRanasinghe691&layout=compact&theme=rose_pine" width="48%" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kawyadissanayaka&theme=gruvbox&no-frame=true&title=Commit,Repositories,Stars" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NavinduRanasinghe691&theme=gruvbox&no-frame=true&title=Commit,Repositories,Stars" />
 </p>
 
 ---
