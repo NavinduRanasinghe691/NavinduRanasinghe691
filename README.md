@@ -122,7 +122,6 @@
 > _“"Shine boldly, create endlessly."”_ ✨💻🎶
 
 ---
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=650&lines=Thanks+for+visiting+my+profile!;--+Navindu+Ranasinghe+-- ;Let's+build+something+amazing+together+💻🚀" alt="Thank You by Navindu" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F48FB1&width=600&lines=Thank+you+for+visiting!;Let's+create+magic+together!+💫" alt="Thanks"/>
 </p>
