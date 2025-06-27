@@ -4,8 +4,9 @@
 </a>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Navindu+Ranasinghe;Computer+Science+Undergraduate;Aspiring+Software+Engineer+💻;Exploring+AI+%26+UI+Design;Let's+Code+Something+Magical!" alt="Typing Intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Navindu+Ranasinghe+👋;Computer+Science+Undergraduate+🎓;Passionate+Software+Engineer+in+Progress+💻;Exploring+AI,+UI%2FUX+%26+Creative+Tech+🧠🎨;Building+Dreams+with+Code+✨" alt="Typing Intro"/>
 </h1>
+
 
 
 ---
