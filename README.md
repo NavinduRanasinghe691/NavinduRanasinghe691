@@ -58,10 +58,16 @@
 
 <h3>🎵 Music Production</h3>
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/4e/FL_Studio_Logo.png" width="40" height="40" alt="FL Studio"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Audacity_Logo_2021.svg" width="40" height="40" alt="Audacity"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Adobe_Audition_CC_icon.svg" width="40" height="40" alt="Adobe Audition"/>
+  <!-- FL Studio -->
+  <img src="https://img.icons8.com/color/48/000000/fl-studio.png" width="40" height="40" alt="FL Studio"/>
+  
+  <!-- Audacity -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Audacity_Logo.svg" width="40" height="40" alt="Audacity"/>
+
+  <!-- Adobe Audition -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Adobe_Audition_CC_icon_%282020%29.svg" width="40" height="40" alt="Adobe Audition"/>
 </p>
+
 
 
 ---
