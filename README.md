@@ -100,13 +100,17 @@
 ## 🔗 Connect with Me
 
 <p align="center">
+  <!-- Gmail Badge -->
   <a href="mailto:navindu691@gmail.com">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtNIgSBqDoh5DksRPFBgbX_7RxXOci1086xA&s" alt="Gmail Badge"width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail Badge" width="40" height="40"/> 
   </a>
-  <a href="www.linkedin.com/in/navindu-ranasinghe-a7b287329">
-    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn Badge" width="50" height="50"/>
+
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/navindu-ranasinghe-a7b287329" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn Badge" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ---
