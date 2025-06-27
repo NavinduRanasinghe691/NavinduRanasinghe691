@@ -10,16 +10,22 @@
 
 ---
 
-## 🌷 About Me
+## 👨‍💻 About Me
 
-- 🎓 **Computer Science student** at NSBM Green University  
+- 🎓 I'm **Navindu Ranasinghe**, a Computer Science undergraduate at **NSBM Green University**  
 - 💡 Passionate about **Software Development**, **AI**, and **Creative UI/UX Design**  
+- 🎶 I'm also into **music**, especially **classical guitar** — learning to blend art and tech  
+- 🎥 Content creator behind *Satahana* — a YouTube channel that shares world stories and insights  
 - 🚀 **Current Projects:**
-  - 
-- 🌱 Currently Learning:
-  - 🔧 Backend: `Flask`, `API Integration`, `Database Design`  
-  - 🎨 Frontend: `HTML`, `CSS`, `UI Design Principles`  
-  - 🗃️ Data: `SQL`, `Data Handling`, `User Feedback Analysis`  
+  - 🛍️ *Shopla* – A modern e-commerce site with HTML/CSS and JavaScript  
+  - 🤖 *AI Tools* – Small projects with Python exploring automation and chatbots  
+  - 📱 *Design Concepts* – Practicing UI layouts and color theory for web and mobile  
+- 🌱 **Currently Learning (Actively):**
+  - 🔧 `Flask`, `API Integration`, `Database Design`  
+  - 🎨 `HTML`, `CSS`, `UI Design Principles`  
+  - 🧠 `Python`, `SQL`, `Logical Thinking`  
+  - 🎼 **Music Theory** & **Guitar Performance**  
+
 - 📬 Reach me: **navindu691@gmail.com**
 
 ---
