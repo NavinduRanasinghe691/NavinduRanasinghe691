@@ -96,17 +96,7 @@
 </p>
 
 ---
-## 👀 Visitor Count
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=navindu691&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views"/>
-</p>
-
-## 🔥 Coding Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navindu691&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 
 ## 🔗 Connect with Me
