@@ -96,16 +96,22 @@
 </p>
 
 ---
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=navindu691&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views"/>
+</p>
+---
 
 ## 🔗 Connect with Me
 
 <p align="center">
-  <!-- Gmail Badge -->
+
   <a href="mailto:navindu691@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail Badge" width="40" height="40"/> 
   </a>
 
-  <!-- LinkedIn Badge -->
+
   <a href="https://www.linkedin.com/in/navindu-ranasinghe-a7b287329" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn Badge" width="40" height="40"/>
   </a>
