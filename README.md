@@ -1,11 +1,12 @@
 
 <a href="https://github.com/NavinduRanasinghe">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*2p-0PUq8F1YV4jNR.png" alt="Banner" width="100%"/>
+  <img src="https://wallpapercat.com/w/full/c/7/e/5823589-2920x1640-desktop-hd-boy-programmer-wallpaper-image.jpg" alt="Banner" width="100%"/>
 </a>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1000&color=E91E63&center=true&vCenter=true&width=600&lines=Hi+I'm+Navindu+Ranasinghe;Computer+Science+Undergraduate;Aspiring+Software+Engineer+💻;Exploring+AI+%26+UI+Design;Let's+Code+Something+Magical!" alt="Typing Intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Navindu+Ranasinghe;Computer+Science+Undergraduate;Aspiring+Software+Engineer+💻;Exploring+AI+%26+UI+Design;Let's+Code+Something+Magical!" alt="Typing Intro"/>
 </h1>
+
 
 ---
 
