@@ -111,9 +111,9 @@
 
 ---
 
-## 🌸 My Motto
+## 💡 My Motto
 
-> _“Don’t be afraid to sparkle a little brighter.”_ ✨🌸
+> _“"Shine boldly, create endlessly."”_ ✨💻🎶
 
 ---
 
