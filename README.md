@@ -65,7 +65,8 @@
   <h3>🎨 Graphic & Video Editing</h3>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" alt="Photoshop"/>
- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968497.png" width="40" height="40" alt="CorelDRAW" style="border-radius: 50%;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="40" height="40" alt="Premiere Pro"/>
+
 
 
 
