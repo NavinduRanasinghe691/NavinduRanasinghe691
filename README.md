@@ -65,6 +65,8 @@
   <h3>🎨 Graphic & Video Editing</h3>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" alt="Photoshop"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/CorelDRAW_X8_Icon.png" width="40" height="40" alt="CorelDRAW"/>
+
 
 
 
