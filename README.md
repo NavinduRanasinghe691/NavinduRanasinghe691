@@ -65,15 +65,6 @@
   <h3>🎨 Graphic & Video Editing</h3>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" alt="Photoshop"/>
-<!-- CorelDRAW -->
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/coreldraw_logo_icon_170817.png" width="40" height="40" alt="CorelDRAW"/>
-
-  <!-- Adobe Premiere Pro -->
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="40" height="40" alt="Premiere Pro"/>
-
-  <!-- Adobe Lightroom -->
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968519.png" width="40" height="40" alt="Lightroom"/>
-</p>
 
 
 
