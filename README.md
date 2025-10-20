@@ -95,18 +95,11 @@
 
 ## 🐍 Contribution Snake
 
-<figure style="text-align:center; margin: 1rem 0;">
-  <img
-    src="https://raw.githubusercontent.com/NavinduRanasinghe691/snk/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution grid snake showing activity over time"
-    title="GitHub contribution grid snake"
-    style="max-width:100%; width:600px; height:auto;"
-    role="img"
-  />
-  <figcaption style="font-size:0.9rem; color:#666; margin-top:0.5rem;">
-    GitHub contribution grid — "snake" pattern
-  </figcaption>
-</figure>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NavinduRanasinghe691/snk/output/github-contribution-grid-snake.svg"
+       alt="GitHub contribution grid snake" />
+</p>
+
 
 
 ---
