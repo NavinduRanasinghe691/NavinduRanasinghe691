@@ -1,6 +1,6 @@
 
 <a href="https://github.com/NavinduRanasinghe">
-  <img src="https://wallpapercat.com/w/full/c/7/e/5823589-2920x1640-desktop-hd-boy-programmer-wallpaper-image.jpg" alt="Banner" width="100%"/>
+  <img src="https://wallpapercat.com/w/full/c/7/e/5823589-2920x1640-desktop-hd-boy-programmer-wallpaper-image.jpg" alt="Banner" width="100%" style="border-radius: 10px;"/>
 </a>
 
 <h1 align="center">
