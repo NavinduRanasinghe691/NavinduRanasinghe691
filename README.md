@@ -1,8 +1,4 @@
 
-<a href="https://github.com/NavinduRanasinghe">
-  <img src="https://wallpapercat.com/w/full/c/7/e/5823589-2920x1640-desktop-hd-boy-programmer-wallpaper-image.jpg" alt="Banner" width="100%" style="border-radius: 10px;"/>
-</a>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=32&pause=1000&color=F9F6EE&center=true&vCenter=true&width=800&lines=I'm+Navindu+J+Ranasinghe+👋;Tech+Enthusiast+%26+CS+Undergraduate+💻;Music+Lover,+Singer+%26+Guitarist+🎵🎸;Always+Creating,+Learning,+and+Exploring+🚀" alt="Typing Intro"/>
 </h1>
