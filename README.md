@@ -9,21 +9,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hi, I'm Navindu J. Ranasinghe  
 
-- 🎓 I'm **Navindu Ranasinghe**, a Computer Science undergraduate at **NSBM Green University**  
-- 💡 Passionate about **Software Development**, **AI**, and **Creative UI/UX Design**  
-- 🎶 I'm also into **music**, especially **classical guitar** — learning to blend art and tech  
-- 🎥 Content creator behind *Navindu Ranasinghe* — a **travel YouTube channel** sharing beautiful places, cultural stories, and real-life experiences from Sri Lanka and beyond   
-- 🚀 **Current Projects:**
-  - 🛍️ *Shopla* – A modern e-commerce site with HTML/CSS and JavaScript  
-  - 📱 *Design Concepts* – Practicing UI layouts and color theory for web and mobile  
-- 🌱 **Currently Learning (Actively):**
-  - 🎨 `HTML`, `CSS`, `UI Design Principles`  
-  - 🧠 `Python`, `SQL`, `Logical Thinking`  
-  - 🎼 **Music Theory** & **Guitar Performance**  
+- 🎓 Computer Science undergrad at **NSBM Green University**  
+- 🏫 Studying at **St.Anne's College**   
+- 💻 Tech enthusiast and content creator  
+- 🎶 Music lover — **Singer & Guitarist**  
+- 🎥 Creator of **“Navindu J. Ranasinghe”** on YouTube and active on Facebook  
 
-- 📬 Reach me: **navindu691@gmail.com**
+---
+
+### 📬 Reach Me 
+
+- ✉️ [navindu691@gmail.com](mailto:navindu691@gmail.com)  
+- 🌐 [YouTube Channel](https://www.youtube.com/channel/UCwXV8yXrcAnnfd_3HB5ry6w)
+
 
 ---
 
