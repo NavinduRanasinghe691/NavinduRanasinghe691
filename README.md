@@ -29,28 +29,28 @@
 
 ## 💼 Tech Stack Overview
 
-### 🧠 Languages & Frameworks
+### ━━━━━ Languages & Frameworks ━━━━━
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🧰 Tools & IDEs
+### ━━━━━ Tools & IDEs ━━━━━
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### 🗄️ Databases
+### ━━━━━ Databases ━━━━━
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-F3BA2F?style=for-the-badge&logo=xampp&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🎨 Design Tools
+### ━━━━━ Design Tools ━━━━━
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-000000?style=for-the-badge&logo=coreldraw&logoColor=white)
 
-### 🎵 Audio Tools
+### ━━━━━ Audio Tools ━━━━━
 ![FL Studio](https://img.shields.io/badge/FL_Studio-FF7800?style=for-the-badge&logo=fl-studio&logoColor=white)
 ![Adobe Audition](https://img.shields.io/badge/Adobe_Audition-FF0000?style=for-the-badge&logo=adobe-audition&logoColor=white)
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## ━━━━━ GitHub Stats ━━━━━
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NavinduRanasinghe691&show_icons=true&theme=rose_pine" width="48%" />
@@ -85,7 +85,7 @@
 
 
 
-## 🔗 Connect with Me
+## ━━━━━ Connect with Me ━━━━━
 
 <p align="center">
 
