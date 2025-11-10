@@ -50,7 +50,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="30" height="30"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="30" height="30"/>
       <img src="https://img.icons8.com/color/48/intellij-idea.png" width="30" height="30" alt="IntelliJ IDEA"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="30" height="30"/>
+  
     </p>
     
   </div>
@@ -61,7 +61,7 @@
     <p align="center">
       <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" width="30" height="30"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" width="30" height="30"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" width="30" height="30"/>
+     
       <img src="https://img.icons8.com/color/48/mongodb.png" width="30" height="30" alt="MongoDB"/>
     </p>
     
