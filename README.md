@@ -79,7 +79,10 @@
     <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Music Production</h3>
     <p align="center">
       <img src="https://img.icons8.com/color/48/000000/fl-studio.png" width="50" height="50" alt="FL Studio"/>
-    </p>
+      <!-- Adobe Audition -->
+<img src="https://img.icons8.com/color/48/adobe-audition--v1.png" width="50" height="50" alt="Adobe Audition"/>
+
+    
   </div>
 
 </div>
