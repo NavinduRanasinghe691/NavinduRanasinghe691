@@ -39,7 +39,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/>
     </p>
-    <p style="font-size:14px; color:#555;">My core programming languages and frameworks for software development and web applications.</p>
+   
   </div>
 
   <!-- Tools, Cloud & Platforms -->
@@ -52,7 +52,7 @@
       <img src="https://img.icons8.com/color/48/intellij-idea.png" width="30" height="30" alt="IntelliJ IDEA"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="30" height="30"/>
     </p>
-    <p style="font-size:14px; color:#555;">IDE and version control tools I use for development and project management.</p>
+    
   </div>
 
   <!-- Databases -->
@@ -64,7 +64,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" width="30" height="30"/>
       <img src="https://img.icons8.com/color/48/mongodb.png" width="30" height="30" alt="MongoDB"/>
     </p>
-    <p style="font-size:14px; color:#555;">Databases I work with for backend development and data management.</p>
+    
   </div>
 
   <!-- Graphic & Video Editing -->
@@ -75,7 +75,7 @@
       <img src="https://img.icons8.com/color/48/canva.png" width="30" height="30" alt="Canva"/>
       <img src="https://img.icons8.com/color/48/coreldraw.png" width="30" height="30" alt="CorelDRAW"/>
     </p>
-    <p style="font-size:14px; color:#555;">Tools I use for UI/UX design, graphics, and content creation.</p>
+    
   </div>
 
   <!-- Music Production -->
@@ -85,7 +85,7 @@
       <img src="https://img.icons8.com/color/48/000000/fl-studio.png" width="30" height="30" alt="FL Studio"/>
       <img src="https://img.icons8.com/color/48/adobe-audition--v1.png" width="30" height="30" alt="Adobe Audition"/>
     </p>
-    <p style="font-size:14px; color:#555;">Music software I use for production and creating melodies on guitar.</p>
+ 
   </div>
 
 </div>
