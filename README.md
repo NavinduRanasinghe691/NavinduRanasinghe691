@@ -27,69 +27,32 @@
 
 ---
 
-## 🧰 Tech Toolbox
+## 💼 Tech Stack Overview
 
-<div align="center" style="background-color:#ffffff; padding:20px; border-radius:20px; box-shadow:0 0 15px rgba(0,0,0,0.1);">
+### 🧠 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  <!-- Languages & Frameworks -->
-  <div style="border:1px solid #e0e0e0; border-radius:15px; padding:15px; margin:10px; background-color:#fafafa;">
-    <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Languages & Frameworks</h3>
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/>
-    </p>
-   
-  </div>
+### 🧰 Tools & IDEs
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-  <!-- Tools, Cloud & Platforms -->
-  <div style="border:1px solid #e0e0e0; border-radius:15px; padding:15px; margin:10px; background-color:#fafafa;">
-    <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Tools & IDEs</h3>
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="30" height="30"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="30" height="30"/>
-      <img src="https://img.icons8.com/color/48/intellij-idea.png" width="30" height="30" alt="IntelliJ IDEA"/>
-  
-    </p>
-    
-  </div>
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-F3BA2F?style=for-the-badge&logo=xampp&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-  <!-- Databases -->
-  <div style="border:1px solid #e0e0e0; border-radius:15px; padding:15px; margin:10px; background-color:#fafafa;">
-    <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Databases</h3>
-    <p align="center">
-      <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" width="30" height="30"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" width="30" height="30"/>
-     
-      <img src="https://img.icons8.com/color/48/mongodb.png" width="30" height="30" alt="MongoDB"/>
-    </p>
-    
-  </div>
+### 🎨 Design Tools
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-000000?style=for-the-badge&logo=coreldraw&logoColor=white)
 
-  <!-- Graphic & Video Editing -->
-  <div style="border:1px solid #e0e0e0; border-radius:15px; padding:15px; margin:10px; background-color:#fafafa;">
-    <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Graphic & Video Editing</h3>
-    <p align="center">
-      <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" width="30" height="30" alt="Photoshop"/>
-      <img src="https://img.icons8.com/color/48/canva.png" width="30" height="30" alt="Canva"/>
-      <img src="https://img.icons8.com/color/48/coreldraw.png" width="30" height="30" alt="CorelDRAW"/>
-    </p>
-    
-  </div>
-
-  <!-- Music Production -->
-  <div style="border:1px solid #e0e0e0; border-radius:15px; padding:15px; margin:10px; background-color:#fafafa;">
-    <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Music Production</h3>
-    <p align="center">
-      <img src="https://img.icons8.com/color/48/000000/fl-studio.png" width="30" height="30" alt="FL Studio"/>
-      <img src="https://img.icons8.com/color/48/adobe-audition--v1.png" width="30" height="30" alt="Adobe Audition"/>
-    </p>
- 
-  </div>
-
-</div>
-
+### 🎵 Audio Tools
+![FL Studio](https://img.shields.io/badge/FL_Studio-FF7800?style=for-the-badge&logo=fl-studio&logoColor=white)
+![Adobe Audition](https://img.shields.io/badge/Adobe_Audition-FF0000?style=for-the-badge&logo=adobe-audition&logoColor=white)
 
 
 
