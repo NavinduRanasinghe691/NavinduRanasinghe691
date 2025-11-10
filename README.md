@@ -29,49 +29,58 @@
 
 ## 🧰 Tech Toolbox
 
-<h3>🧠 Languages & Frameworks</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="40" height="40"/>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Languages & Frameworks</h3>
+      <p align="left">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+      </p>
+    </td>
 
-<h3>☁️ Tools, Cloud & Platforms</h3>
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-    <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="40" height="40"/>
-    <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="40" height="40"/>
+    <td valign="top" width="50%">
+      <h3>Tools, Cloud & Platforms</h3>
+      <p align="left">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+        <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="40" height="40"/>
+      </p>
+    </td>
+  </tr>
 
-</p>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Databases</h3>
+      <p align="left">
+        <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png?20220326082245" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" width="40" height="40"/>
+      </p>
+    </td>
 
+    <td valign="top" width="50%">
+      <h3>Graphic & Video Editing</h3>
+      <p align="left">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" alt="Photoshop"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="40" height="40" alt="Canva"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/CorelDraw_logo.svg" width="40" height="40" alt="CorelDRAW"/>
+      </p>
+    </td>
+  </tr>
 
-<h3>💾 Databases</h3>
-<p align="left">
-  <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png?20220326082245"width="40" height="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" width="40" height="40"/>
-</p>
-
-<h3>🎵 Music Production</h3>
-<p align="left">
-  <!-- FL Studio -->
-  <img src="https://img.icons8.com/color/48/000000/fl-studio.png" width="40" height="40" alt="FL Studio"/>
-  </p>
-
- <h3>🎨 Graphic & Video Editing</h3>
-<p align="left">
-  <!-- Adobe Photoshop -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" alt="Photoshop"/>
-
-  <!-- Canva -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="40" height="40" alt="Canva"/>
-
-  <!-- CorelDRAW -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/CorelDraw_logo.svg" width="40" height="40" alt="CorelDRAW"/>
-</p>
-
+  <tr>
+    <td valign="top" colspan="2">
+      <h3>Music Production</h3>
+      <p align="left">
+        <img src="https://img.icons8.com/color/48/000000/fl-studio.png" width="40" height="40" alt="FL Studio"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
