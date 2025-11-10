@@ -68,8 +68,9 @@
     <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Graphic & Video Editing</h3>
     <p align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50" height="50" alt="Photoshop"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="50" height="50" alt="Canva"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/CorelDraw_logo.svg" width="50" height="50" alt="CorelDRAW"/>
+       <!-- Canva -->
+  <img src="https://img.icons8.com/color/48/canva.png" width="50" height="50" alt="Canva"/>
+  
     </p>
   </div>
 
