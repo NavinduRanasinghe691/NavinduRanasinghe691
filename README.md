@@ -60,9 +60,17 @@
   <img src="https://img.icons8.com/color/48/000000/fl-studio.png" width="40" height="40" alt="FL Studio"/>
   </p>
 
-  <h3>🎨 Graphic & Video Editing</h3>
+ <h3>🎨 Graphic & Video Editing</h3>
 <p align="left">
+  <!-- Adobe Photoshop -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" alt="Photoshop"/>
+
+  <!-- Canva -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="40" height="40" alt="Canva"/>
+
+  <!-- CorelDRAW -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/CorelDraw_logo.svg" width="40" height="40" alt="CorelDRAW"/>
+</p>
 
 
 
