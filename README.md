@@ -19,7 +19,7 @@
 
 ---
 
-### ━━━━━━━ Reach Me ━━━━━━━
+###  ━━━ Reach Me  ━━━
 
 - ✉️ [navindu691@gmail.com](mailto:navindu691@gmail.com)  
 - 🌐 [YouTube Channel](https://www.youtube.com/channel/UCwXV8yXrcAnnfd_3HB5ry6w)
