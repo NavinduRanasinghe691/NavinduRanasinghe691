@@ -11,7 +11,7 @@
 
 ##  Hi, I'm Navindu J. Ranasinghe  
 
-- Computer Science undergrad at **NSBM Green University**  
+➤  Computer Science undergrad at **NSBM Green University**  
 - Studying at **St.Anne's College**   
 - Tech enthusiast and content creator  
 - Music lover — **Singer & Guitarist**  
