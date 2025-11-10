@@ -110,25 +110,32 @@
 
 <p align="center">
 
-  <a href="mailto:navindu691@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail Badge" width="40" height="40"/> 
+  <!-- Gmail -->
+  <a href="mailto:navindu691@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/> 
   </a>
 
-
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/navindu-ranasinghe-a7b287329" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn Badge" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/navindu.ranasinghe" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="40" height="40"/>
+  </a>
+
 </p>
 
 
 
 ---
-
-## 💡 My Motto
-
-> _“"Shine boldly, create endlessly."”_ ✨💻🎶
+<h2 align="center" style="color:white; font-family:Segoe UI;">
+  💡 "Where technology meets creativity — I code, design, and create with passion." 🎵💻✨
+</h2>
 
 ---
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F48FB1&width=600&lines=Thank+you+for+visiting!;Let's+create+magic+together!+💫" alt="Thanks"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Keep+creating,+keep+learning,+keep+growing!+🚀" alt="Thanks"/>
 </p>
