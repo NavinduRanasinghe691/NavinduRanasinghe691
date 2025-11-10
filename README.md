@@ -71,7 +71,7 @@
        <!-- Canva -->
   <img src="https://img.icons8.com/color/48/canva.png" width="50" height="50" alt="Canva"/>
   
-    </p>
+    
   </div>
 
   <!-- Music Production -->
