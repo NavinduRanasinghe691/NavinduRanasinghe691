@@ -60,7 +60,10 @@
       <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" width="50" height="50"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png?20220326082245" width="50" height="50"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" width="50" height="50"/>
-    </p>
+      <!-- MongoDB -->
+<img src="https://img.icons8.com/color/48/mongodb.png" width="50" height="50" alt="MongoDB"/>
+
+    
   </div>
 
   <!-- Graphic & Video Editing -->
