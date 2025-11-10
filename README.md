@@ -29,59 +29,59 @@
 
 ## 🧰 Tech Toolbox
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Languages & Frameworks</h3>
-      <p align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-      </p>
-    </td>
+<div align="center" style="background-color:#ffffff; padding:20px; border-radius:20px; box-shadow:0 0 15px rgba(0,0,0,0.1);">
 
-    <td valign="top" width="50%">
-      <h3>Tools, Cloud & Platforms</h3>
-      <p align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-        <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="40" height="40"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="40" height="40"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="40" height="40"/>
-      </p>
-    </td>
-  </tr>
+  <!-- Languages & Frameworks -->
+  <div style="border:1px solid #e0e0e0; border-radius:15px; padding:15px; margin:10px; background-color:#fafafa;">
+    <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Languages & Frameworks</h3>
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+    </p>
+  </div>
 
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Databases</h3>
-      <p align="left">
-        <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" width="40" height="40"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png?20220326082245" width="40" height="40"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" width="40" height="40"/>
-      </p>
-    </td>
+  <!-- Tools, Cloud & Platforms -->
+  <div style="border:1px solid #e0e0e0; border-radius:15px; padding:15px; margin:10px; background-color:#fafafa;">
+    <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Tools, Cloud & Platforms</h3>
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
+      <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="50" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="50" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="50" height="50"/>
+    </p>
+  </div>
 
-    <td valign="top" width="50%">
-      <h3>Graphic & Video Editing</h3>
-      <p align="left">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" alt="Photoshop"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="40" height="40" alt="Canva"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/CorelDraw_logo.svg" width="40" height="40" alt="CorelDRAW"/>
-      </p>
-    </td>
-  </tr>
+  <!-- Databases -->
+  <div style="border:1px solid #e0e0e0; border-radius:15px; padding:15px; margin:10px; background-color:#fafafa;">
+    <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Databases</h3>
+    <p align="center">
+      <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" width="50" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png?20220326082245" width="50" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" width="50" height="50"/>
+    </p>
+  </div>
 
-  <tr>
-    <td valign="top" colspan="2">
-      <h3>Music Production</h3>
-      <p align="left">
-        <img src="https://img.icons8.com/color/48/000000/fl-studio.png" width="40" height="40" alt="FL Studio"/>
-      </p>
-    </td>
-  </tr>
-</table>
+  <!-- Graphic & Video Editing -->
+  <div style="border:1px solid #e0e0e0; border-radius:15px; padding:15px; margin:10px; background-color:#fafafa;">
+    <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Graphic & Video Editing</h3>
+    <p align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50" height="50" alt="Photoshop"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="50" height="50" alt="Canva"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/CorelDraw_logo.svg" width="50" height="50" alt="CorelDRAW"/>
+    </p>
+  </div>
 
+  <!-- Music Production -->
+  <div style="border:1px solid #e0e0e0; border-radius:15px; padding:15px; margin:10px; background-color:#fafafa;">
+    <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Music Production</h3>
+    <p align="center">
+      <img src="https://img.icons8.com/color/48/000000/fl-studio.png" width="50" height="50" alt="FL Studio"/>
+    </p>
+  </div>
+
+</div>
 
 
 
