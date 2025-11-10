@@ -35,57 +35,57 @@
   <div style="border:1px solid #e0e0e0; border-radius:15px; padding:15px; margin:10px; background-color:#fafafa;">
     <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Languages & Frameworks</h3>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/>
     </p>
+    <p style="font-size:14px; color:#555;">My core programming languages and frameworks for software development and web applications.</p>
   </div>
 
   <!-- Tools, Cloud & Platforms -->
   <div style="border:1px solid #e0e0e0; border-radius:15px; padding:15px; margin:10px; background-color:#fafafa;">
-    <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Tools, Cloud & Platforms</h3>
+    <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Tools & IDEs</h3>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
-      <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="50" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="50" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="30" height="30"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="30" height="30"/>
+      <img src="https://img.icons8.com/color/48/intellij-idea.png" width="30" height="30" alt="IntelliJ IDEA"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="30" height="30"/>
     </p>
+    <p style="font-size:14px; color:#555;">IDE and version control tools I use for development and project management.</p>
   </div>
 
   <!-- Databases -->
   <div style="border:1px solid #e0e0e0; border-radius:15px; padding:15px; margin:10px; background-color:#fafafa;">
     <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Databases</h3>
     <p align="center">
-      <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" width="50" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png?20220326082245" width="50" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" width="50" height="50"/>
-      <!-- MongoDB -->
-<img src="https://img.icons8.com/color/48/mongodb.png" width="50" height="50" alt="MongoDB"/>
-
-    
+      <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" width="30" height="30"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" width="30" height="30"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" width="30" height="30"/>
+      <img src="https://img.icons8.com/color/48/mongodb.png" width="30" height="30" alt="MongoDB"/>
+    </p>
+    <p style="font-size:14px; color:#555;">Databases I work with for backend development and data management.</p>
   </div>
 
   <!-- Graphic & Video Editing -->
   <div style="border:1px solid #e0e0e0; border-radius:15px; padding:15px; margin:10px; background-color:#fafafa;">
     <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Graphic & Video Editing</h3>
     <p align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50" height="50" alt="Photoshop"/>
-       <!-- Canva -->
-  <img src="https://img.icons8.com/color/48/canva.png" width="50" height="50" alt="Canva"/>
-  
-    
+      <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" width="30" height="30" alt="Photoshop"/>
+      <img src="https://img.icons8.com/color/48/canva.png" width="30" height="30" alt="Canva"/>
+      <img src="https://img.icons8.com/color/48/coreldraw.png" width="30" height="30" alt="CorelDRAW"/>
+    </p>
+    <p style="font-size:14px; color:#555;">Tools I use for UI/UX design, graphics, and content creation.</p>
   </div>
 
   <!-- Music Production -->
   <div style="border:1px solid #e0e0e0; border-radius:15px; padding:15px; margin:10px; background-color:#fafafa;">
     <h3 style="color:#222; font-family:'Segoe UI', sans-serif;">Music Production</h3>
     <p align="center">
-      <img src="https://img.icons8.com/color/48/000000/fl-studio.png" width="50" height="50" alt="FL Studio"/>
-      <!-- Adobe Audition -->
-<img src="https://img.icons8.com/color/48/adobe-audition--v1.png" width="50" height="50" alt="Adobe Audition"/>
-
-    
+      <img src="https://img.icons8.com/color/48/000000/fl-studio.png" width="30" height="30" alt="FL Studio"/>
+      <img src="https://img.icons8.com/color/48/adobe-audition--v1.png" width="30" height="30" alt="Adobe Audition"/>
+    </p>
+    <p style="font-size:14px; color:#555;">Music software I use for production and creating melodies on guitar.</p>
   </div>
 
 </div>
