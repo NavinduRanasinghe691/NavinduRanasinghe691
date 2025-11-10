@@ -108,7 +108,7 @@
 
 ---
 <h2 align="center" style="color:white; font-family:Segoe UI;">
- ━━━ "Where technology meets creativity — I code, design, and create with passion."  ━━━
+  "Where technology meets creativity — I code, design, and create with passion." 
 </h2>
 
 ---
