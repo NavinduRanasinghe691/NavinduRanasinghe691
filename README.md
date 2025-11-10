@@ -99,12 +99,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NavinduRanasinghe691/snk/output/github-contribution-grid-snake.svg"
-       alt="GitHub contribution grid snake" />
-</p>
 
 
 
