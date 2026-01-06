@@ -65,11 +65,7 @@
 <p align="center">
 
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=NavinduRanasinghe691&show_icons=true&theme=rose_pine&hide_title=true&hide_border=true&count_private=true" 
-  width="44%" 
-  style="border-radius:15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin:5px;" 
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NavinduRanasinghe691&theme=rose_pine&hide_border=true" width="44%" />
 
 
 <img 
