@@ -1,158 +1,110 @@
-<!-- ================= CINEMATIC HEADER ================= -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=32&pause=1000&color=F9F6EE&center=true&vCenter=true&width=800&lines=I'm+Navindu+J+Ranasinghe+👋;Tech+Enthusiast+%26+CS+Undergraduate+💻;Music+Lover,+Singer+%26+Guitarist+🎵🎸;Always+Creating,+Learning,+and+Exploring+🚀" alt="Typing Intro"/>
+</h1>
+
+
+
+
+
+---
+
+##  Hi, I'm Navindu J. Ranasinghe  
+
+➤  Computer Science undergrad at **NSBM Green University**  
+➤  Studying at **St.Anne's College**   
+➤  Tech enthusiast and content creator  
+➤  Music lover — **Singer & Guitarist**  
+➤  Creator of **“Navindu J. Ranasinghe”** on YouTube and active on Facebook  
+
+---
+
+###  ━━━ Reach Me  ━━━
+
+- ✉️ [navindu691@gmail.com](mailto:navindu691@gmail.com)  
+- 🌐 [YouTube Channel](https://www.youtube.com/channel/UCwXV8yXrcAnnfd_3HB5ry6w)
+
+
+---
+
+## 💼 Tech Stack Overview
+
+### 🧠 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### 🧰 Tools & IDEs
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-F3BA2F?style=for-the-badge&logo=xampp&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🎨 Design Tools
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-000000?style=for-the-badge&logo=coreldraw&logoColor=white)
+
+### 🎵 Audio Tools
+![FL Studio](https://img.shields.io/badge/FL_Studio-FF7800?style=for-the-badge&logo=fl-studio&logoColor=white)
+![Adobe Audition](https://img.shields.io/badge/Adobe_Audition-FF0000?style=for-the-badge&logo=adobe-audition&logoColor=white)
+
+
+
+
+---
+
+
+
+---
+
+
+
+
+
+
+
+---
+
+
+
+## ━━━━━ Connect with Me ━━━━━
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050816,50:1F3A8A,100:7C3AED&text=Navindu%20J.%20Ranasinghe&fontSize=46&fontColor=FFFFFF&animation=fadeIn&stroke=58A6FF&strokeWidth=1&desc=Computer%20Science%20Undergraduate%20%7C%20Developer%20%7C%20UI%2FUX%20Designer&descSize=17&descAlignY=65"
-    alt="Navindu J. Ranasinghe"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=780&lines=Building+Modern+Digital+Experiences;Turning+Creative+Ideas+into+Real+Products;Code+%7C+Design+%7C+Create+%7C+Explore"
-    alt="Introduction"
-  />
-</p>
-
-<p align="center">
-  <a href="mailto:navindu691@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+  <!-- Gmail -->
+  <a href="mailto:navindu691@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/> 
   </a>
-  <a href="https://www.linkedin.com/in/navindu-ranasinghe-a7b287329">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/navindu-ranasinghe-a7b287329" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCwXV8yXrcAnnfd_3HB5ry6w">
-    <img
-      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-      alt="YouTube"
-    />
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/navindu.ranasinghe" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="40" height="40"/>
   </a>
+
 </p>
 
-<br/>
 
-<!-- ================= ABOUT ================= -->
 
-## About Me
+---
+<h2 align="center" style="color:white; font-family:Segoe UI;">
+  "Where technology meets creativity — I code, design, and create with passion." 
+</h2>
 
-I am a **BSc (Hons) Computer Science undergraduate at NSBM Green University**, passionate about developing modern, accessible and visually engaging digital products.
-
-- Computer Science undergraduate with a **3.80 GPA**
-- Interested in **Frontend, Full-Stack Development and UI/UX Design**
-- Building applications with **React, Next.js and ASP.NET Core**
-- Experienced with REST APIs, databases and authentication
-- Currently developing full-stack portfolio projects
-- Seeking a **Frontend, Full-Stack or UI/UX internship**
-
-<br/>
-
-<!-- ================= TECH STACK ================= -->
-
-## Technology Universe
-
-<h3 align="center">Frontend Development</h3>
+---
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark"
-    alt="Frontend technologies"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Keep+creating,+keep+learning,+keep+growing!+🚀" alt="Thanks"/>
 </p>
-
-<h3 align="center">Backend Development</h3>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=cs,dotnet,java,spring&theme=dark"
-    alt="Backend technologies"
-  />
-</p>
-
-<h3 align="center">Databases and Tools</h3>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,figma,postman,vscode,idea&theme=dark"
-    alt="Databases and development tools"
-  />
-</p>
-
-<p align="center">
-  <code>REST API</code>
-  <code>JWT Authentication</code>
-  <code>SQL Server</code>
-  <code>Swagger</code>
-  <code>Responsive Design</code>
-</p>
-
-<br/>
-
-<!-- ================= PROJECT SHOWCASE ================= -->
-
-## Project Showcase
-
-
-<!-- ================= CURRENT FOCUS ================= -->
-
-## Current Mission
-
-- Mastering **React and TypeScript**
-- Building modern applications with **Next.js**
-- Developing secure APIs with **ASP.NET Core**
-- Improving **PostgreSQL and database design**
-- Learning **Docker and professional Git workflows**
-
-<br/>
-
-<!-- ================= CREATIVE SIDE ================= -->
-
-## Beyond the Code
-
-<p align="center">
-  I am also a singer and guitarist who enjoys combining
-  technology, music, design and creativity.
-</p>
-
-<p align="center">
-  <strong>Developer by logic. Designer by vision. Musician by soul.</strong>
-</p>
-
-<br/>
-
-<!-- ================= CONTACT ================= -->
-
-## Let’s Build Something Meaningful
-
-<p align="center">
-  I am open to internships, collaborations and creative technology projects.
-</p>
-
-<p align="center">
-  <a href="mailto:navindu691@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Start_a_Conversation-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Start a conversation"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <em>
-    “Where technology meets creativity — I code, design and create with passion.”
-  </em>
-</p>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7C3AED,50:1F3A8A,100:050816"
-    alt="Footer"
-  />
-</p>
+ meka hodiada meka proficinal krnne kohomda
