@@ -156,52 +156,88 @@
 
 ---
 
-## 〈 Let's Connect 〉
+---
 
 <div align="center">
 
-### Let's build something remarkable together.
+## 〈 AVAILABLE FOR OPPORTUNITIES 〉
 
-<p align="center">
-I'm always open to connecting with developers, designers, creators, and people interested in building meaningful technology.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&duration=3000&pause=1200&color=7EB8F7&center=true&vCenter=true&width=650&lines=Open+to+Software+Engineering+Internships;Full-Stack+Development+Opportunities;Let's+Build+Something+Meaningful+Together" />
 
 <br>
 
+<table>
+<tr>
+
+<td align="center" width="180">
 <a href="mailto:navindu691@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0A0F1E?style=for-the-badge&logo=gmail&logoColor=7EB8F7"/>
+<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="32" height="32"/>
+<br>
+<strong>Email Me</strong>
+<br>
+<sub>Let's start a conversation</sub>
+</a>
+</td>
+
+<td align="center" width="180">
+<a href="https://www.linkedin.com/in/navindu-ranasinghe-a7b287329">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="32" height="32"/>
+<br>
+<strong>LinkedIn</strong>
+<br>
+<sub>Professional Network</sub>
+</a>
+</td>
+
+<td align="center" width="180">
+<a href="https://github.com/NavinduRanasinghe691">
+<img src="https://img.icons8.com/fluency/48/github.png" width="32" height="32"/>
+<br>
+<strong>GitHub</strong>
+<br>
+<sub>Explore My Work</sub>
+</a>
+</td>
+
+<td align="center" width="180">
+<a href="https://www.youtube.com/channel/UCwXV8yXrcAnnfd_3HB5ry6w">
+<img src="https://img.icons8.com/color/48/youtube-play.png" width="32" height="32"/>
+<br>
+<strong>YouTube</strong>
+<br>
+<sub>Creative Side</sub>
+</a>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### Ready to contribute. Ready to learn. Ready to build.
+
+<sub>
+Software Engineering &nbsp;•&nbsp; Full-Stack Development &nbsp;•&nbsp; Backend Engineering &nbsp;•&nbsp; Mobile Development
+</sub>
+
+<br><br>
+
+<a href="mailto:navindu691@gmail.com">
+<img src="https://img.shields.io/badge/LET'S%20WORK%20TOGETHER-7EB8F7?style=for-the-badge&logo=gmail&logoColor=0A0F1E"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://www.linkedin.com/in/navindu-ranasinghe-a7b287329">
-<img src="https://img.shields.io/badge/LINKEDIN-0A0F1E?style=for-the-badge&logo=linkedin&logoColor=7EB8F7"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/NavinduRanasinghe691">
-<img src="https://img.shields.io/badge/GITHUB-0A0F1E?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0D1B3E?style=for-the-badge&logo=linkedin&logoColor=7EB8F7"/>
 </a>
 
 <br><br>
 
-<a href="https://www.youtube.com/channel/UCwXV8yXrcAnnfd_3HB5ry6w">
-<img src="https://img.shields.io/badge/YOUTUBE-0A0F1E?style=for-the-badge&logo=youtube&logoColor=FF4B4B"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/navindu.ranasinghe">
-<img src="https://img.shields.io/badge/FACEBOOK-0A0F1E?style=for-the-badge&logo=facebook&logoColor=4F9CF9"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=NavinduRanasinghe691&style=flat-square&color=0d1b3e&label=PROFILE+VIEWS"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=7EB8F7&center=true&vCenter=true&width=650&lines=Code+with+purpose.;Create+with+passion.;Build+something+that+matters." />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:0D1B3E,100:0EA5E9&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1b3e,100:0a0f1e&height=90&section=footer" width="100%"/>
 
 </div>
