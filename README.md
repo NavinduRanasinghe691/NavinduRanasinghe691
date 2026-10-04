@@ -1,96 +1,240 @@
-[<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1b3e,100:0a0f1e&height=140&section=header&text=Navindu%20J.%20Ranasinghe&fontSize=38&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Engineer%20%7C%20CS%20Undergraduate%20%7C%20Creator&descSize=15&descAlignY=85&descFontColor=7eb8f7" width="100%"/>
-</div>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1200&color=7EB8F7&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Spring+Boot+%7C+ASP.NET;Flutter+%7C+Docker+%7C+Laravel+%7C+PHP;Building+Elegant+Digital+Experiences+%E2%9C%A8" alt="Typing"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/BSc%20Computer%20Science-NSBM%20Green%20University-0d1b3e?style=flat-square&labelColor=0d1b3e&color=0d1b3e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Kurunegala%20Sri%20Lanka-0d1b3e?style=flat-square&labelColor=0d1b3e&color=0d1b3e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Internships-0d1b3e?style=flat-square&labelColor=0d1b3e&color=0d1b3e"/>
-</p>
-
----
+<!-- ========================================================= -->
+<!--                        HERO                               -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎓%20NSBM%20Green%20University-BSc%20Computer%20Science-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/💼%20Full--Stack%20Dev-UI%2FUX%20·%20Content%20Creator-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🎸%20Singer-Guitarist%20·%20Music%20Producer-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/📺%20Naviyaa-YouTube%20Channel-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/✉️%20navindu691%40gmail.com-Contact-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=15&pause=2000&color=7EB8F7&center=true&vCenter=true&width=700&lines=%22Where+technology+meets+creativity+%E2%80%94+I+code%2C+design%2C+and+create+with+passion.%22" alt="Quote"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:061A40,100:0A3D62&height=150&section=header&text=Navindu%20J.%20Ranasinghe&fontSize=38&fontColor=FFFFFF&fontAlignY=65&desc=Full-Stack%20Software%20Engineer%20%7C%20CS%20Undergraduate%20%7C%20Creator&descSize=15&descAlignY=86&descFontColor=7EB8F7"
+width="100%"
+/>
 
 </div>
 
----
-
-## 〈 Languages & Frameworks 〉
-
 <p align="center">
-<img src="https://img.shields.io/badge/Java-0d1b3e?style=flat-square&logo=openjdk&logoColor=7eb8f7"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-0d1b3e?style=flat-square&logo=springboot&logoColor=6db33f"/>
-<img src="https://img.shields.io/badge/C%23-0d1b3e?style=flat-square&logo=csharp&logoColor=9b59f7"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-0d1b3e?style=flat-square&logo=dotnet&logoColor=9b59f7"/>
-<img src="https://img.shields.io/badge/PHP-0d1b3e?style=flat-square&logo=php&logoColor=a78bfa"/>
-<img src="https://img.shields.io/badge/Laravel-0d1b3e?style=flat-square&logo=laravel&logoColor=ff4444"/>
-<img src="https://img.shields.io/badge/Python-0d1b3e?style=flat-square&logo=python&logoColor=ffd43b"/>
-<img src="https://img.shields.io/badge/JavaScript-0d1b3e?style=flat-square&logo=javascript&logoColor=f7df1e"/>
-<img src="https://img.shields.io/badge/TypeScript-0d1b3e?style=flat-square&logo=typescript&logoColor=3178c6"/>
-<img src="https://img.shields.io/badge/React-0d1b3e?style=flat-square&logo=react&logoColor=61dafb"/>
-<img src="https://img.shields.io/badge/Next.js-0d1b3e?style=flat-square&logo=nextdotjs&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/HTML5-0d1b3e?style=flat-square&logo=html5&logoColor=e34f26"/>
-<img src="https://img.shields.io/badge/CSS3-0d1b3e?style=flat-square&logo=css3&logoColor=1572b6"/>
-<img src="https://img.shields.io/badge/Tailwind-0d1b3e?style=flat-square&logo=tailwindcss&logoColor=06b6d4"/>
-<img src="https://img.shields.io/badge/Flutter-0d1b3e?style=flat-square&logo=flutter&logoColor=54c5f8"/>
-<img src="https://img.shields.io/badge/Dart-0d1b3e?style=flat-square&logo=dart&logoColor=0175c2"/>
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1200&color=7EB8F7&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;C%23+%7C+ASP.NET+Core+%7C+PHP+%7C+Laravel;Flutter+%7C+Docker+%7C+Databases;Building+Scalable+Systems+%26+Elegant+Digital+Experiences"
+alt="Typing"
+/>
+
 </p>
 
----
-
-## 〈 Databases & DevOps 〉
-
 <p align="center">
-<img src="https://img.shields.io/badge/SQL%20Server-0d1b3e?style=flat-square&logo=microsoftsqlserver&logoColor=cc2927"/>
-<img src="https://img.shields.io/badge/MySQL-0d1b3e?style=flat-square&logo=mysql&logoColor=4479a1"/>
-<img src="https://img.shields.io/badge/MongoDB-0d1b3e?style=flat-square&logo=mongodb&logoColor=47a248"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0d1b3e?style=flat-square&logo=postgresql&logoColor=4169e1"/>
-<img src="https://img.shields.io/badge/Docker-0d1b3e?style=flat-square&logo=docker&logoColor=2496ed"/>
-<img src="https://img.shields.io/badge/Git-0d1b3e?style=flat-square&logo=git&logoColor=f05032"/>
-<img src="https://img.shields.io/badge/GitHub-0d1b3e?style=flat-square&logo=github&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Postman-0d1b3e?style=flat-square&logo=postman&logoColor=ff6c37"/>
-<img src="https://img.shields.io/badge/Swagger-0d1b3e?style=flat-square&logo=swagger&logoColor=85ea2d"/>
+
+<img src="https://img.shields.io/badge/BSc%20(Hons)%20Computer%20Science-NSBM%20Green%20University-0d1b3e?style=flat-square&labelColor=020617&color=7EB8F7"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Full--Stack%20Development-Software%20Engineering-0d1b3e?style=flat-square&labelColor=020617&color=7EB8F7"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Opportunities-0d1b3e?style=flat-square&labelColor=020617&color=6DB33F"/>
+
 </p>
 
----
+<br>
 
-## 〈 Design & Creative Tools 〉
+
+<!-- ========================================================= -->
+<!--                      ABOUT ME                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:061A40,100:0A3D62&height=65&section=header&text=%E3%80%88%20ABOUT%20ME%20%E3%80%89&fontSize=24&fontColor=FFFFFF&fontAlignY=55&stroke=7EB8F7&strokeWidth=1"
+width="100%"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table border="0">
+<tr>
+
+<td width="65%" valign="top">
+
+### 👋 Hello, I'm Navindu
+
+I'm a **Computer Science undergraduate** and aspiring **Full-Stack Software Engineer** focused on building scalable applications, modern user experiences and practical digital solutions.
+
+I enjoy working across the full development lifecycle — from **UI/UX and frontend development** to **backend architecture, databases, APIs and deployment**.
+
+My main engineering focus is:
+
+- 🚀 Full-Stack Web Development
+- ⚙️ Backend & REST API Engineering
+- 📱 Cross-Platform Mobile Development
+- 🎨 UI/UX & Product Design
+- 🗄️ Database Design & Management
+- 🐳 DevOps & Development Workflows
+- 🧠 Problem Solving & Software Engineering
+
+</td>
+
+<td width="35%" align="center">
+
+<br>
+
+<img src="https://img.shields.io/badge/🎓%20Computer%20Science-NSBM-0d1b3e?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/💻%20Full--Stack-Engineering-0d1b3e?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📱%20Mobile-Flutter-0d1b3e?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🎨%20Creative-Design%20%26%20Media-0d1b3e?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=15&pause=2500&color=7EB8F7&center=true&vCenter=true&width=750&lines=%22Where+technology+meets+creativity+%E2%80%94+I+code%2C+design%2C+and+create+with+purpose.%22"
+alt="Quote"
+/>
+
+</div>
+
+<br>
+
+
+<!-- ========================================================= -->
+<!--                  TECHNOLOGY STACK                         -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:061A40,100:0A3D62&height=65&section=header&text=%E3%80%88%20TECHNOLOGY%20STACK%20%E3%80%89&fontSize=24&fontColor=FFFFFF&fontAlignY=55&stroke=7EB8F7&strokeWidth=1"
+width="100%"
+/>
+
+</div>
+
+<br>
+
+### 💻 Languages & Frameworks
 
 <p align="center">
-<img src="https://img.shields.io/badge/Figma-0d1b3e?style=flat-square&logo=figma&logoColor=f24e1e"/>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-0d1b3e?style=flat-square&logo=adobephotoshop&logoColor=31a8ff"/>
-<img src="https://img.shields.io/badge/Adobe%20Audition-0d1b3e?style=flat-square&logo=adobeaudition&logoColor=9999ff"/>
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-0d1b3e?style=flat-square&logo=davinciresolve&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Canva-0d1b3e?style=flat-square&logo=canva&logoColor=00c4cc"/>
-<img src="https://img.shields.io/badge/CorelDRAW-0d1b3e?style=flat-square&logo=coreldraw&logoColor=00a550"/>
-<img src="https://img.shields.io/badge/VS%20Code-0d1b3e?style=flat-square&logo=visualstudiocode&logoColor=007acc"/>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-0d1b3e?style=flat-square&logo=intellijidea&logoColor=fe2857"/>
-<img src="https://img.shields.io/badge/Visual%20Studio-0d1b3e?style=flat-square&logo=visualstudio&logoColor=9b4993"/>
+
+<img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=7EB8F7"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-020617?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/C%23-020617?style=for-the-badge&logo=csharp&logoColor=9B59F7"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-020617?style=for-the-badge&logo=dotnet&logoColor=9B59F7"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Laravel-020617?style=for-the-badge&logo=laravel&logoColor=FF4444"/>
+<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/Flutter-020617?style=for-the-badge&logo=flutter&logoColor=54C5F8"/>
+<img src="https://img.shields.io/badge/Dart-020617?style=for-the-badge&logo=dart&logoColor=0175C2"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/TailwindCSS-020617?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+
 </p>
 
----
+<br>
 
+
+<!-- ========================================================= -->
+<!--                DATABASES & DEVOPS                         -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:061A40,100:0A3D62&height=65&section=header&text=%E3%80%88%20DATABASES%20%26%20DEVOPS%20%E3%80%89&fontSize=24&fontColor=FFFFFF&fontAlignY=55&stroke=7EB8F7&strokeWidth=1"
+width="100%"
+/>
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/SQL%20Server-020617?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Postman-020617?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Swagger-020617?style=for-the-badge&logo=swagger&logoColor=85EA2D"/>
+
+</p>
+
+<br>
+
+
+<!-- ========================================================= -->
+<!--                 DESIGN & CREATIVE                         -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:061A40,100:0A3D62&height=65&section=header&text=%E3%80%88%20DESIGN%20%26%20CREATIVE%20%E3%80%89&fontSize=24&fontColor=FFFFFF&fontAlignY=55&stroke=7EB8F7&strokeWidth=1"
+width="100%"
+/>
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Figma-020617?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/Photoshop-020617?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
+<img src="https://img.shields.io/badge/Adobe%20Audition-020617?style=for-the-badge&logo=adobeaudition&logoColor=9999FF"/>
+<img src="https://img.shields.io/badge/DaVinci%20Resolve-020617?style=for-the-badge&logo=davinciresolve&logoColor=FFFFFF"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Canva-020617?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
+<img src="https://img.shields.io/badge/CorelDRAW-020617?style=for-the-badge&logo=coreldraw&logoColor=00A550"/>
+<img src="https://img.shields.io/badge/VS%20Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-020617?style=for-the-badge&logo=intellijidea&logoColor=FE2857"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-020617?style=for-the-badge&logo=visualstudio&logoColor=9B4993"/>
+
+</p>
+
+<br>
+
+
+<!-- ========================================================= -->
+<!--                        PROJECTS                            -->
+<!-- ========================================================= -->
 
 <div align="center">
 
@@ -98,340 +242,349 @@
 src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:061A40,100:0A3D62&height=65&section=header&text=%E3%80%88%20PROJECTS%20%E3%80%89&fontSize=24&fontColor=FFFFFF&fontAlignY=55&stroke=7EB8F7&strokeWidth=1"
 width="100%"
 />
+
 </div>
-<br/>
 
-<div align="center">
+<br>
 
-<!--  ROW 1  -->
-<table border="0" cellspacing="8" cellpadding="0">
+<p align="center">
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&pause=2000&color=7EB8F7&center=true&vCenter=true&width=650&lines=Engineering+%C2%B7+UI%2FUX+%C2%B7+Mobile+%C2%B7+Creative+Projects"
+alt="Projects"
+/>
+
+</p>
+
+<br>
+
+<table border="0" cellspacing="12" cellpadding="0">
 <tr>
 
-<td width="310" valign="top" style="padding:8px">
+<td width="50%" valign="top">
 
-### 🗺️ MYTOUR Buddy
-**Sri Lanka Tourism Platform**
+### 🗺️ MyTourBuddy
 
-<img src="https://img.shields.io/badge/Next.js-0d1b3e?style=flat-square&logo=nextdotjs&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-0d1b3e?style=flat-square&logo=springboot&logoColor=6db33f"/>
-<img src="https://img.shields.io/badge/MongoDB-0d1b3e?style=flat-square&logo=mongodb&logoColor=47a248"/>
-<img src="https://img.shields.io/badge/JWT-0d1b3e?style=flat-square&logo=jsonwebtokens&logoColor=fff"/>
+**Tourism & Guide Platform**
 
-Map-based tourism platform to discover, explore and manage travel destinations across Sri Lanka.
+`Next.js` `Spring Boot` `MongoDB` `JWT`
 
-<img src="https://img.shields.io/badge/Full--Stack-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<img src="https://img.shields.io/badge/REST%20API-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<img src="https://img.shields.io/badge/Auth-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
+Comprehensive tourism platform connecting tourists with destinations and guides across Sri Lanka.
 
-<br/><br/>
+**Focus:** Full-Stack · REST API · Authentication
 
-<a href="YOUR_MYTOUR_REPO_URL">
-<img src="https://img.shields.io/badge/View%20Repository-7eb8f7?style=for-the-badge&logo=github&logoColor=0a0f1e"/>
+<a href="YOUR_MYTOURBUDDY_REPO_URL">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7EB8F7?style=for-the-badge&logo=github&logoColor=020617"/>
 </a>
 
 </td>
 
-<td width="310" valign="top" style="padding:8px">
+<td width="50%" valign="top">
 
 ### 🏥 ApexHire
-**Recruitment Management System**
 
-<img src="https://img.shields.io/badge/React-0d1b3e?style=flat-square&logo=react&logoColor=61dafb"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-0d1b3e?style=flat-square&logo=dotnet&logoColor=9b59f7"/>
-<img src="https://img.shields.io/badge/SQL%20Server-0d1b3e?style=flat-square&logo=microsoftsqlserver&logoColor=cc2927"/>
-<img src="https://img.shields.io/badge/JWT-0d1b3e?style=flat-square&logo=jsonwebtokens&logoColor=fff"/>
+**Enterprise Recruitment System**
 
-Full-stack recruitment platform for managing candidates, vacancies, applications and hiring workflows.
+`React` `ASP.NET Core` `SQL Server` `REST API`
 
-<img src="https://img.shields.io/badge/Full--Stack-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<img src="https://img.shields.io/badge/.NET-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<img src="https://img.shields.io/badge/SQL%20Server-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
+Full-stack recruitment platform for vacancies, candidates, applications and hiring workflows.
 
-<br/><br/>
+**Focus:** Full-Stack · .NET · Database
 
 <a href="YOUR_APEXHIRE_REPO_URL">
-<img src="https://img.shields.io/badge/View%20Repository-7eb8f7?style=for-the-badge&logo=github&logoColor=0a0f1e"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7EB8F7?style=for-the-badge&logo=github&logoColor=020617"/>
 </a>
 
 </td>
 
 </tr>
-</table>
 
-<br/>
-
-<!--  ROW 2  -->
-<table border="0" cellspacing="8" cellpadding="0">
 <tr>
 
-<td width="310" valign="top" style="padding:8px">
-
-### 🚆 RDMNS.LK
-**Live Train Alerts · UI/UX Redesign**
-
-<img src="https://img.shields.io/badge/Figma-0d1b3e?style=flat-square&logo=figma&logoColor=f24e1e"/>
-<img src="https://img.shields.io/badge/UI%2FUX-0d1b3e?style=flat-square&logo=adobe&logoColor=ff0000"/>
-<img src="https://img.shields.io/badge/Prototyping-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-
-Redesigned railway experience improving live train information, navigation, accessibility and usability.
-
-<img src="https://img.shields.io/badge/UI%2FUX-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<img src="https://img.shields.io/badge/Research-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<img src="https://img.shields.io/badge/Usability-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-
-<br/><br/>
-
-<a href="YOUR_RDMNS_URL">
-<img src="https://img.shields.io/badge/View%20Project-7eb8f7?style=for-the-badge&logo=figma&logoColor=0a0f1e"/>
-</a>
-
-</td>
-
-<td width="310" valign="top" style="padding:8px">
-
-### 🔗 CoreConnect
-**Digital Connection Platform**
-
-<img src="https://img.shields.io/badge/React-0d1b3e?style=flat-square&logo=react&logoColor=61dafb"/>
-<img src="https://img.shields.io/badge/JavaScript-0d1b3e?style=flat-square&logo=javascript&logoColor=f7df1e"/>
-<img src="https://img.shields.io/badge/REST%20API-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-
-Modern web platform for connecting users through a clean interface and structured digital experience.
-
-<img src="https://img.shields.io/badge/Frontend-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<img src="https://img.shields.io/badge/UI%2FUX-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<img src="https://img.shields.io/badge/Web%20Dev-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-
-<br/><br/>
-
-<a href="YOUR_CORECONNECT_REPO_URL">
-<img src="https://img.shields.io/badge/View%20Repository-7eb8f7?style=for-the-badge&logo=github&logoColor=0a0f1e"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<!--  ROW 3  -->
-<table border="0" cellspacing="8" cellpadding="0">
-<tr>
-
-<td width="310" valign="top" style="padding:8px">
+<td width="50%" valign="top">
 
 ### ☀️ SunSide
+
 **Smart Bus Sun-Avoidance App**
 
-<img src="https://img.shields.io/badge/Flutter-0d1b3e?style=flat-square&logo=flutter&logoColor=54c5f8"/>
-<img src="https://img.shields.io/badge/Dart-0d1b3e?style=flat-square&logo=dart&logoColor=0175c2"/>
-<img src="https://img.shields.io/badge/Algorithms-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
+`Flutter` `Dart` `Figma`
 
-Mobile app that calculates the best side of a bus based on sun position, travel direction and time.
+Mobile application that calculates sun position and travel direction to recommend a better shaded side of the bus.
 
-<img src="https://img.shields.io/badge/Flutter-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<img src="https://img.shields.io/badge/Logic-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<img src="https://img.shields.io/badge/Animation-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-
-<br/><br/>
+**Focus:** Mobile · Algorithms · UI/UX
 
 <a href="YOUR_SUNSIDE_REPO_URL">
-<img src="https://img.shields.io/badge/View%20Repository-7eb8f7?style=for-the-badge&logo=github&logoColor=0a0f1e"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7EB8F7?style=for-the-badge&logo=github&logoColor=020617"/>
 </a>
 
 </td>
 
-<td width="310" valign="top" style="padding:8px">
+<td width="50%" valign="top">
 
-### 🏠 BODIM
-**Boarding & Accommodation Platform**
+### 🚆 RDMNS.LK
 
-<img src="https://img.shields.io/badge/Flutter-0d1b3e?style=flat-square&logo=flutter&logoColor=54c5f8"/>
-<img src="https://img.shields.io/badge/Dart-0d1b3e?style=flat-square&logo=dart&logoColor=0175c2"/>
-<img src="https://img.shields.io/badge/Firebase-0d1b3e?style=flat-square&logo=firebase&logoColor=ffca28"/>
+**Railway Experience Redesign**
 
-Mobile platform for discovering and managing boarding and accommodation options with a simple user experience.
+`Figma` `UX Research` `Design Systems`
 
-<img src="https://img.shields.io/badge/Mobile-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<img src="https://img.shields.io/badge/Firebase-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<img src="https://img.shields.io/badge/UI%2FUX-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
+Human-centered redesign focused on live train information, delay alerts, accessibility and usability.
 
-<br/><br/>
+**Focus:** UI/UX · Research · Prototyping
 
-<a href="YOUR_BODIM_REPO_URL">
-<img src="https://img.shields.io/badge/View%20Repository-7eb8f7?style=for-the-badge&logo=github&logoColor=0a0f1e"/>
+<a href="YOUR_RDMNS_URL">
+<img src="https://img.shields.io/badge/VIEW%20CASE%20STUDY-7EB8F7?style=for-the-badge&logo=figma&logoColor=020617"/>
 </a>
 
 </td>
 
 </tr>
-</table>
 
-<br/>
-
-<!--  ROW 4  -->
-<table border="0" cellspacing="8" cellpadding="0">
 <tr>
 
-<td width="310" valign="top" style="padding:8px">
+<td width="50%" valign="top">
 
-### 🌿 Baburugama Ayurvedic
-**Brand & Digital Design System**
+### 🌿 Baburugama Ayurveda
 
-<img src="https://img.shields.io/badge/CorelDRAW-0d1b3e?style=flat-square&logo=coreldraw&logoColor=00a550"/>
-<img src="https://img.shields.io/badge/Canva-0d1b3e?style=flat-square&logo=canva&logoColor=00c4cc"/>
-<img src="https://img.shields.io/badge/UI%2FUX-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
+**Brand Identity & Digital Design**
 
-Trilingual visual identity and product labeling system for a Sri Lankan Ayurvedic brand.
+`CorelDRAW` `Canva` `UI/UX`
 
-<img src="https://img.shields.io/badge/Branding-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<img src="https://img.shields.io/badge/UI%2FUX-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<img src="https://img.shields.io/badge/Creative-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
+Trilingual visual identity and packaging design system inspired by Sri Lankan Ayurvedic branding.
 
-<br/><br/>
+**Focus:** Branding · Packaging · Creative Design
 
 <a href="YOUR_BABURUGAMA_LINK">
-<img src="https://img.shields.io/badge/View%20Project-7eb8f7?style=for-the-badge&logo=canva&logoColor=0a0f1e"/>
+<img src="https://img.shields.io/badge/VIEW%20SHOWCASE-7EB8F7?style=for-the-badge&logo=behance&logoColor=020617"/>
 </a>
 
 </td>
 
-<td width="310" valign="top" style="padding:8px">
+<td width="50%" valign="top">
 
-### 🎬 Naviyaa
-**Sri Lankan Travel & Creative Media**
+### 🎬 Naviya
 
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-0d1b3e?style=flat-square&logo=davinciresolve&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Adobe%20Audition-0d1b3e?style=flat-square&logo=adobeaudition&logoColor=9999ff"/>
-<img src="https://img.shields.io/badge/YouTube-0d1b3e?style=flat-square&logo=youtube&logoColor=ff0000"/>
+**Visual Media & Cinematic Travel**
 
-Cinematic travel and creative media project focused on Sri Lankan locations, experiences and visual storytelling.
+`DaVinci Resolve` `Adobe Audition` `YouTube`
 
-<img src="https://img.shields.io/badge/Content%20Creation-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<img src="https://img.shields.io/badge/Video%20Editing-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-<img src="https://img.shields.io/badge/Storytelling-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
+Creative media project combining Sri Lankan travel storytelling, video production and audio engineering.
 
-<br/><br/>
+**Focus:** Content · Video · Storytelling
 
-<a href="YOUR_NAVIYAA_LINK">
-<img src="https://img.shields.io/badge/Visit%20Channel-7eb8f7?style=for-the-badge&logo=youtube&logoColor=0a0f1e"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Engineering-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Designing-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Building-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
-
-**From full-stack applications to mobile products and human-centered interfaces.**
-
-</div>
-
----
-
-## 〈 GitHub Stats 〉
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NavinduRanasinghe691&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=7eb8f7&icon_color=7eb8f7&text_color=c9d1d9&ring_color=7eb8f7" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinduRanasinghe691&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=7eb8f7&text_color=c9d1d9" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NavinduRanasinghe691&theme=tokyonight&hide_border=true&background=0a0f1e&ring=7eb8f7&fire=7eb8f7&currStreakLabel=7eb8f7&sideLabels=7eb8f7&dates=7eb8f7&stroke=0a0f1e" height="165"/>
-</p>
-
----
-
-## 〈 Achievements 〉
-
-<p align="center">
-<img src="https://img.shields.io/badge/🏆%20UNSCRIPTED%201.0-Sri%20Lanka's%20First%20Human%20Intelligence%20Hackathon%20·%20May%202026-0d1b3e?style=flat-square&labelColor=0d1b3e&color=0d1b3e"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Organizers-Generation%20Alpha%20·%20Square%20Hub%20·%20Microsoft-0d1b3e?style=flat-square&labelColor=0d1b3e&color=0d1b3e"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/🥉%203rd%20Place-ICT%20Students%20Competition%20Divisional%20Level%20·%202017-0d1b3e?style=flat-square&labelColor=0d1b3e&color=0d1b3e"/>
-</p>
-
----
-
-## 〈 Available for Opportunities 〉
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=15&duration=3000&pause=1200&color=7EB8F7&center=true&vCenter=true&width=650&lines=Open+to+Software+Engineering+Internships;Full-Stack+Development+Opportunities;Let's+Build+Something+Meaningful+Together" />
-
-<br/>
-
-<table border="0" cellspacing="0" cellpadding="12">
-<tr>
-<td align="center">
-<a href="mailto:navindu691@gmail.com">
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="34" height="34"/><br/>
-<strong>Gmail</strong><br/>
-<sub>navindu691@gmail.com</sub>
-</a>
-</td>
-<td align="center">
-<a href="https://www.linkedin.com/in/navindu-ranasinghe-a7b287329">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="34" height="34"/><br/>
-<strong>LinkedIn</strong><br/>
-<sub>Professional Network</sub>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/NavinduRanasinghe691">
-<img src="https://img.icons8.com/fluency/48/github.png" width="34" height="34"/><br/>
-<strong>GitHub</strong><br/>
-<sub>Explore My Work</sub>
-</a>
-</td>
-<td align="center">
 <a href="https://www.youtube.com/channel/UCwXV8yXrcAnnfd_3HB5ry6w">
-<img src="https://img.icons8.com/color/48/youtube-play.png" width="34" height="34"/><br/>
-<strong>YouTube</strong><br/>
-<sub>Creative Side</sub>
+<img src="https://img.shields.io/badge/VISIT%20CHANNEL-7EB8F7?style=for-the-badge&logo=youtube&logoColor=020617"/>
 </a>
+
 </td>
-<td align="center">
-<a href="https://www.facebook.com/navindu.ranasinghe">
-<img src="https://img.icons8.com/color/48/facebook-new.png" width="34" height="34"/><br/>
-<strong>Facebook</strong><br/>
-<sub>Stay Connected</sub>
-</a>
-</td>
+
 </tr>
 </table>
 
-<br/>
+<br>
+
+
+<!-- ========================================================= -->
+<!--                    GITHUB STATS                            -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:061A40,100:0A3D62&height=65&section=header&text=%E3%80%88%20GITHUB%20STATS%20%E3%80%89&fontSize=24&fontColor=FFFFFF&fontAlignY=55&stroke=7EB8F7&strokeWidth=1"
+width="100%"
+/>
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=NavinduRanasinghe691&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=7EB8F7&icon_color=7EB8F7&text_color=C9D1D9"
+height="170"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinduRanasinghe691&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=7EB8F7&text_color=C9D1D9"
+height="170"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com?user=NavinduRanasinghe691&theme=tokyonight&hide_border=true&background=020617&ring=7EB8F7&fire=7EB8F7&currStreakLabel=7EB8F7&sideLabels=7EB8F7&dates=7EB8F7&stroke=020617"
+height="170"
+/>
+
+</p>
+
+<br>
+
+
+<!-- ========================================================= -->
+<!--                    ACHIEVEMENTS                            -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:061A40,100:0A3D62&height=65&section=header&text=%E3%80%88%20ACHIEVEMENTS%20%E3%80%89&fontSize=24&fontColor=FFFFFF&fontAlignY=55&stroke=7EB8F7&strokeWidth=1"
+width="100%"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏆%20UNSCRIPTED%201.0-Participant%20%26%20Pitch%20Presenter-020617?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🥉%203rd%20Place-ICT%20Students%20Competition%20·%20Divisional%20Level-020617?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
+
+</div>
+
+<br>
+
+
+<!-- ========================================================= -->
+<!--                     BEYOND CODE                            -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:061A40,100:0A3D62&height=65&section=header&text=%E3%80%88%20BEYOND%20CODE%20%E3%80%89&fontSize=24&fontColor=FFFFFF&fontAlignY=55&stroke=7EB8F7&strokeWidth=1"
+width="100%"
+/>
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🎸%20Acoustic%20Guitar-020617?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
+<img src="https://img.shields.io/badge/🎵%20Music%20Production-020617?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
+<img src="https://img.shields.io/badge/🎬%20Video%20Production-020617?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
+<img src="https://img.shields.io/badge/🎨%20Creative%20Design-020617?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍%20Sri%20Lanka-020617?style=flat-square&labelColor=020617&color=7EB8F7"/>
+
+</p>
+
+<div align="center">
+
+> **Technology gives me the tools. Creativity gives me the direction.**
+
+</div>
+
+<br>
+
+
+<!-- ========================================================= -->
+<!--              AVAILABLE FOR OPPORTUNITIES                  -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:061A40,100:0A3D62&height=65&section=header&text=%E3%80%88%20AVAILABLE%20FOR%20OPPORTUNITIES%20%E3%80%89&fontSize=24&fontColor=FFFFFF&fontAlignY=55&stroke=7EB8F7&strokeWidth=1"
+width="100%"
+/>
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&duration=3000&pause=1200&color=7EB8F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Internships;Full-Stack+Development+Opportunities;Junior+Software+Engineering+Roles;Let's+Build+Something+Meaningful+Together"
+alt="Opportunities"
+/>
+
+</p>
+
+<br>
+
+
+<!-- ========================================================= -->
+<!--                       CONTACT                              -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:061A40,100:0A3D62&height=65&section=header&text=%E3%80%88%20LET%27S%20CONNECT%20%E3%80%89&fontSize=24&fontColor=FFFFFF&fontAlignY=55&stroke=7EB8F7&strokeWidth=1"
+width="100%"
+/>
+
+</div>
+
+<br>
+
+<p align="center">
 
 <a href="mailto:navindu691@gmail.com">
-<img src="https://img.shields.io/badge/LET'S%20WORK%20TOGETHER-7eb8f7?style=for-the-badge&logo=gmail&logoColor=0a0f1e"/>
+<img src="https://img.shields.io/badge/GMAIL-020617?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/navindu-ranasinghe-a7b287329">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0d1b3e?style=for-the-badge&logo=linkedin&logoColor=7eb8f7"/>
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<br/><br/>
+<a href="https://github.com/NavinduRanasinghe691">
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=NavinduRanasinghe691&style=flat-square&color=0d1b3e&label=PROFILE+VIEWS&labelColor=0d1b3e"/>
+<a href="https://www.youtube.com/channel/UCwXV8yXrcAnnfd_3HB5ry6w">
+<img src="https://img.shields.io/badge/YOUTUBE-020617?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
+</a>
 
-<br/><br/>
+<a href="https://www.facebook.com/navindu.ranasinghe">
+<img src="https://img.shields.io/badge/FACEBOOK-020617?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1b3e,100:0a0f1e&height=100&section=footer" width="100%"/>
+</p>
 
+<br>
+
+<div align="center">
+
+<a href="mailto:navindu691@gmail.com">
+<img src="https://img.shields.io/badge/LET'S%20WORK%20TOGETHER-7EB8F7?style=for-the-badge&logo=gmail&logoColor=020617"/>
+</a>
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=NavinduRanasinghe691&style=flat-square&color=061A40&label=PROFILE%20VIEWS&labelColor=020617"
+/>
+
+</p>
+
+
+<!-- ========================================================= -->
+<!--                        FOOTER                              -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:061A40,100:0A3D62&height=100&section=footer"
+width="100%"
+/>
+
+</div>
