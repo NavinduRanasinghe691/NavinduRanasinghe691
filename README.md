@@ -118,13 +118,215 @@
 
 <div align="center">
 
-| Project | Stack | Description |
-|---|---|---|
-| 🗺️ **MYTOUR Buddy** | `Next.js` `Spring Boot` `MongoDB` `JWT` | Map-based Sri Lanka tour platform |
-| 🏥 **ApexHire** | `React` `ASP.NET Core` `SQL Server` `JWT` | Full recruitment management system |
-| 🌿 **Baburugama Ayurvedic** | `CorelDraw` `Canva` | Trilingual brand & labeling system |
-| 🎬 **Naviyaa YouTube** | `DaVinci Resolve` `Adobe Audition` | Cinematic Sri Lanka travel content |
+### Selected Work · Engineering · UI/UX · Creative Projects
 
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🗺️ MYTOUR Buddy
+
+**Sri Lanka Tourism Platform**
+
+`Next.js` `Spring Boot` `MongoDB` `JWT`
+
+A modern map-based tourism platform designed to help users discover, explore and manage travel destinations across Sri Lanka.
+
+**Focus**
+
+`Full-Stack` · `REST API` · `Authentication` · `MongoDB`
+
+<br>
+
+<a href="YOUR_MYTOUR_REPO_URL">
+<img src="https://img.shields.io/badge/View_Repository-0A3D62?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏥 ApexHire
+
+**Recruitment Management System**
+
+`React` `ASP.NET Core` `SQL Server` `JWT`
+
+A full-stack recruitment management platform for managing candidates, vacancies, applications and recruitment workflows.
+
+**Focus**
+
+`Full-Stack` · `.NET` · `SQL Server` · `JWT`
+
+<br>
+
+<a href="YOUR_APEXHIRE_REPO_URL">
+<img src="https://img.shields.io/badge/View_Repository-0A3D62?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚆 RDMNS.LK
+
+**Live Train Alerts · UI/UX Redesign**
+
+`Figma` `UI/UX` `Prototyping` `Usability`
+
+A redesigned railway experience focused on improving live train information, navigation, accessibility and overall usability.
+
+**Focus**
+
+`UI/UX` · `Research` · `Prototyping` · `Usability`
+
+<br>
+
+<a href="YOUR_RDMNS_REPO_OR_DESIGN_URL">
+<img src="https://img.shields.io/badge/View_Project-0A3D62?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔗 CoreConnect
+
+**Digital Connection Platform**
+
+`React` `JavaScript` `REST API` `UI/UX`
+
+A modern web platform focused on connecting users through a clean interface and structured digital experience.
+
+**Focus**
+
+`Frontend` · `UI/UX` · `Web Development`
+
+<br>
+
+<a href="YOUR_CORECONNECT_REPO_URL">
+<img src="https://img.shields.io/badge/View_Repository-0A3D62?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ☀️ SunSide
+
+**Smart Bus Sun-Avoidance App**
+
+`Flutter` `Dart` `UI/UX` `Algorithms`
+
+A mobile application concept that calculates the best side of a bus to sit on based on the sun's position, travel direction and time.
+
+**Focus**
+
+`Flutter` · `Dart` · `Logic` · `Animation`
+
+<br>
+
+<a href="YOUR_SUNSIDE_REPO_URL">
+<img src="https://img.shields.io/badge/View_Repository-0A3D62?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏠 BODIM
+
+**Boarding & Accommodation Platform**
+
+`Flutter` `Dart` `Firebase` `UI/UX`
+
+A mobile platform concept for discovering and managing boarding and accommodation options with a simple user experience.
+
+**Focus**
+
+`Mobile` · `Firebase` · `UI/UX`
+
+<br>
+
+<a href="YOUR_BODIM_REPO_URL">
+<img src="https://img.shields.io/badge/View_Repository-0A3D62?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌿 Baburugama Ayurvedic
+
+**Brand & Digital Design System**
+
+`CorelDRAW` `Canva` `UI/UX`
+
+A trilingual visual identity and product-labeling system created for a Sri Lankan Ayurvedic brand.
+
+**Focus**
+
+`Branding` · `UI/UX` · `Creative Design`
+
+<br>
+
+<a href="YOUR_BABURUGAMA_LINK">
+<img src="https://img.shields.io/badge/View_Project-0A3D62?style=for-the-badge&logo=canva&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎬 Naviyaa
+
+**Sri Lankan Travel & Creative Media**
+
+`DaVinci Resolve` `Adobe Audition` `YouTube`
+
+A cinematic travel and creative-media project focused on Sri Lankan locations, experiences and visual storytelling.
+
+**Focus**
+
+`Content Creation` · `Video Editing` · `Storytelling`
+
+<br>
+
+<a href="YOUR_NAVIIYAA_LINK">
+<img src="https://img.shields.io/badge/Visit_Channel-0A3D62?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 〈 Building · Designing · Engineering 〉
+
+**From full-stack applications to mobile products and human-centered interfaces.**
+
+</div>
 </div>
 
 ---
