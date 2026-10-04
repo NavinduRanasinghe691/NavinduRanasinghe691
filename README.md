@@ -120,13 +120,13 @@ width="100%"
 <img src="https://img.shields.io/badge/C%23-020617?style=for-the-badge&logo=csharp&logoColor=9B59F7"/>
 <img src="https://img.shields.io/badge/ASP.NET%20Core-020617?style=for-the-badge&logo=dotnet&logoColor=9B59F7"/>
 <br/>
-### 💻 TOOLS
+
 <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 <img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
 <br/>
-### 💻 Desings
+
 <img src="https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/Laravel-020617?style=for-the-badge&logo=laravel&logoColor=FF4444"/>
 <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=FFD43B"/>
@@ -138,17 +138,14 @@ width="100%"
 <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/TailwindCSS-020617?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
-
 </p>
-
 <br>
-
-
 <!-- ========================================================= -->
 <!--                DATABASES & DEVOPS                         -->
 <!-- ========================================================= -->
 
 <div align="center">
+### 💻  DATABASES & DEVOPS     
 
 <img
 src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:061A40,100:0A3D62&height=65&section=header&text=%E3%80%88%20DATABASES%20%26%20DEVOPS%20%E3%80%89&fontSize=24&fontColor=FFFFFF&fontAlignY=55&stroke=7EB8F7&strokeWidth=1"
