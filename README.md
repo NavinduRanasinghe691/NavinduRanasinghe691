@@ -1,224 +1,167 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=120&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1b3e,100:0a0f1e&height=140&section=header&text=Navindu%20J.%20Ranasinghe&fontSize=38&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Engineer%20%7C%20CS%20Undergraduate%20%7C%20Creator&descSize=15&descAlignY=85&descFontColor=7eb8f7" width="100%"/>
 </div>
 
----
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&pause=1200&color=1a1a1a&center=true&vCenter=true&width=900&lines=Navindu+J.+Ranasinghe;Full-Stack+Software+Engineer;Computer+Science+Undergraduate;Building+Elegant+Digital+Experiences" alt="Typing"/>
-</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/BSc%20Computer%20Science-NSBM%20Green%20University-1a1a1a?style=flat-square&labelColor=f5f5f5&color=1a1a1a"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-1a1a1a?style=flat-square&labelColor=f5f5f5&color=1a1a1a"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-1a1a1a?style=flat-square&labelColor=f5f5f5&color=1a1a1a"/>
-</p>
-
----
-
-## ◈ About Me
-
-```text
-🎓  BSc (Hons) Computer Science — NSBM Green University
-💼  Full-Stack Developer · UI/UX Designer · Digital Content Creator
-🌍  Kurunegala, Sri Lanka
-🎸  Singer, Guitarist & Music Producer
-📺  Content Creator — Naviyaa YouTube Channel
-✉️  navindu691@gmail.com
-```
-
-> *"I don't just write code — I craft experiences that are elegant, performant, and human-centered."*
-
----
-
-## ◈ Languages & Frameworks
-
-<p align="center">
-
-<!-- Backend -->
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-<!-- Mobile -->
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-
-</p>
-
----
-
-## ◈ Databases & DevOps
-
-<p align="center">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-</p>
-
----
-
-## ◈ Tools & Design
-
-<p align="center">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=adobeaudition&logoColor=white"/>
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-</p>
-
----
-
-## ◈ Featured Projects
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🗺️ MYTOUR Buddy
-**Sri Lanka Tour Guide Platform**
-> Full-stack map-based web app for Sri Lankan tourism
-
-- ⚡ Next.js · Spring Boot · MongoDB
-- 🔐 JWT Authentication · Role-based access
-- 🗺️ Interactive map-based discovery
-- 🔗 RESTful API · Postman tested
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏥 ApexHire
-**Recruitment Management System**
-> End-to-end digital hiring platform
-
-- ⚡ React · ASP.NET Core · SQL Server
-- 🔐 JWT · Role-based access control
-- 📊 Dashboard analytics · Recharts
-- 📄 Full recruitment pipeline
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌿 Baburugama Ayurvedic
-**Brand & Labeling System**
-> Trilingual product labeling (EN · SI · TA)
-
-- 🎨 CorelDraw · Canva
-- 📋 Official registration compliant
-- 🌐 Sinhala · Tamil · English
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎬 Naviyaa YouTube
-**Travel & Content Creation**
-> Cinematic Sri Lanka travel documentaries
-
-- 🎥 DaVinci Resolve · Adobe Audition
-- 🎵 Original music production
-- 📱 Full production pipeline
-
-</td>
-
-</tr>
-</table>
-
----
-
-## ◈ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NavinduRanasinghe691&show_icons=true&theme=default&hide_border=true&title_color=1a1a1a&icon_color=1a1a1a&text_color=333333&bg_color=ffffff" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinduRanasinghe691&layout=compact&theme=default&hide_border=true&title_color=1a1a1a&text_color=333333&bg_color=ffffff" height="165"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1200&color=7EB8F7&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Spring+Boot+%7C+ASP.NET;Flutter+%7C+Docker+%7C+Laravel+%7C+PHP;Building+Elegant+Digital+Experiences+%E2%9C%A8" alt="Typing"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NavinduRanasinghe691&theme=default&hide_border=true&ring=1a1a1a&fire=1a1a1a&currStreakLabel=1a1a1a" height="165"/>
-</p>
-
----
-
-## ◈ Achievements
-
-```text
-🏆  UNSCRIPTED 1.0 Hackathon  —  Sri Lanka's First Human Intelligence Hackathon
-        Generation Alpha · Square Hub · Microsoft  |  May 2026
-
-🥉  3rd Place  —  ICT Students Competition (Divisional Level)
-        St. Anne's College  |  2017
-```
-
----
-
-## ◈ Connect
-
-<p align="center">
-  <a href="mailto:navindu691@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/BSc%20Computer%20Science-NSBM%20Green%20University-7eb8f7?style=flat-square&labelColor=0d1b3e&color=0d1b3e"/>
   &nbsp;
-  <a href="https://www.linkedin.com/in/navindu-ranasinghe-a7b287329">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Kurunegala%2C%20Sri%20Lanka-🌍-0d1b3e?style=flat-square&labelColor=0d1b3e&color=0d1b3e"/>
   &nbsp;
-  <a href="https://github.com/NavinduRanasinghe691">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/channel/UCwXV8yXrcAnnfd_3HB5ry6w">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/navindu.ranasinghe">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Internships-✅-0d1b3e?style=flat-square&labelColor=0d1b3e&color=0d1b3e"/>
 </p>
 
 ---
 
 <div align="center">
 
-*"Where technology meets creativity — I code, design, and create with passion."*
+```text
+🎓  BSc (Hons) Computer Science  —  NSBM Green University
+💼  Full-Stack Dev  ·  UI/UX Designer  ·  Content Creator
+🎸  Singer  ·  Guitarist  ·  Music Producer
+📺  Naviyaa YouTube Channel
+✉️  navindu691@gmail.com
+```
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=NavinduRanasinghe691&style=flat-square&color=1a1a1a&label=Profile+Views"/>
+> *"Where technology meets creativity — I code, design, and create with passion."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=100&section=footer" width="100%"/>
+---
+
+## 〈 Languages & Frameworks 〉
+
+<p align="center">
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Java-0d1b3e?style=flat-square&logo=openjdk&logoColor=7eb8f7"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-0d1b3e?style=flat-square&logo=springboot&logoColor=6db33f"/>
+<img src="https://img.shields.io/badge/C%23-0d1b3e?style=flat-square&logo=csharp&logoColor=9b59f7"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-0d1b3e?style=flat-square&logo=dotnet&logoColor=9b59f7"/>
+<img src="https://img.shields.io/badge/PHP-0d1b3e?style=flat-square&logo=php&logoColor=a78bfa"/>
+<img src="https://img.shields.io/badge/Laravel-0d1b3e?style=flat-square&logo=laravel&logoColor=ff4444"/>
+<img src="https://img.shields.io/badge/Python-0d1b3e?style=flat-square&logo=python&logoColor=ffd43b"/>
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/JavaScript-0d1b3e?style=flat-square&logo=javascript&logoColor=f7df1e"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1b3e?style=flat-square&logo=typescript&logoColor=3178c6"/>
+<img src="https://img.shields.io/badge/React-0d1b3e?style=flat-square&logo=react&logoColor=61dafb"/>
+<img src="https://img.shields.io/badge/Next.js-0d1b3e?style=flat-square&logo=nextdotjs&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/HTML5-0d1b3e?style=flat-square&logo=html5&logoColor=e34f26"/>
+<img src="https://img.shields.io/badge/CSS3-0d1b3e?style=flat-square&logo=css3&logoColor=1572b6"/>
+<img src="https://img.shields.io/badge/Tailwind-0d1b3e?style=flat-square&logo=tailwindcss&logoColor=06b6d4"/>
+
+<!-- Mobile -->
+<img src="https://img.shields.io/badge/Flutter-0d1b3e?style=flat-square&logo=flutter&logoColor=54c5f8"/>
+<img src="https://img.shields.io/badge/Dart-0d1b3e?style=flat-square&logo=dart&logoColor=0175c2"/>
+
+</p>
+
+---
+
+## 〈 Databases & DevOps 〉
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQL%20Server-0d1b3e?style=flat-square&logo=microsoftsqlserver&logoColor=cc2927"/>
+<img src="https://img.shields.io/badge/MySQL-0d1b3e?style=flat-square&logo=mysql&logoColor=4479a1"/>
+<img src="https://img.shields.io/badge/MongoDB-0d1b3e?style=flat-square&logo=mongodb&logoColor=47a248"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1b3e?style=flat-square&logo=postgresql&logoColor=4169e1"/>
+<img src="https://img.shields.io/badge/Docker-0d1b3e?style=flat-square&logo=docker&logoColor=2496ed"/>
+<img src="https://img.shields.io/badge/Git-0d1b3e?style=flat-square&logo=git&logoColor=f05032"/>
+<img src="https://img.shields.io/badge/GitHub-0d1b3e?style=flat-square&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Postman-0d1b3e?style=flat-square&logo=postman&logoColor=ff6c37"/>
+<img src="https://img.shields.io/badge/Swagger-0d1b3e?style=flat-square&logo=swagger&logoColor=85ea2d"/>
+</p>
+
+---
+
+## 〈 Design & Creative Tools 〉
+
+<p align="center">
+<img src="https://img.shields.io/badge/Figma-0d1b3e?style=flat-square&logo=figma&logoColor=f24e1e"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-0d1b3e?style=flat-square&logo=adobephotoshop&logoColor=31a8ff"/>
+<img src="https://img.shields.io/badge/Adobe%20Audition-0d1b3e?style=flat-square&logo=adobeaudition&logoColor=9999ff"/>
+<img src="https://img.shields.io/badge/DaVinci%20Resolve-0d1b3e?style=flat-square&logo=davinciresolve&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Canva-0d1b3e?style=flat-square&logo=canva&logoColor=00c4cc"/>
+<img src="https://img.shields.io/badge/CorelDRAW-0d1b3e?style=flat-square&logo=coreldraw&logoColor=00a550"/>
+<img src="https://img.shields.io/badge/VS%20Code-0d1b3e?style=flat-square&logo=visualstudiocode&logoColor=007acc"/>
+<img src="https://img.shields.io/badge/IntelliJ-0d1b3e?style=flat-square&logo=intellijidea&logoColor=fe2857"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-0d1b3e?style=flat-square&logo=visualstudio&logoColor=9b4993"/>
+</p>
+
+---
+
+## 〈 Featured Projects 〉
+
+<div align="center">
+
+| Project | Stack | Description |
+|---|---|---|
+| 🗺️ **MYTOUR Buddy** | `Next.js` `Spring Boot` `MongoDB` `JWT` | Map-based Sri Lanka tour platform |
+| 🏥 **ApexHire** | `React` `ASP.NET Core` `SQL Server` `JWT` | Full recruitment management system |
+| 🌿 **Baburugama Ayurvedic** | `CorelDraw` `Canva` | Trilingual brand & labeling system |
+| 🎬 **Naviyaa YouTube** | `DaVinci Resolve` `Adobe Audition` | Cinematic Sri Lanka travel content |
+
+</div>
+
+---
+
+## 〈 GitHub Stats 〉
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NavinduRanasinghe691&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=7eb8f7&icon_color=7eb8f7&text_color=c9d1d9&ring_color=7eb8f7" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinduRanasinghe691&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=7eb8f7&text_color=c9d1d9" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NavinduRanasinghe691&theme=tokyonight&hide_border=true&background=0a0f1e&ring=7eb8f7&fire=7eb8f7&currStreakLabel=7eb8f7&sideLabels=7eb8f7&dates=7eb8f7&stroke=0a0f1e" height="170"/>
+</p>
+
+---
+
+## 〈 Achievements 〉
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆%20UNSCRIPTED%201.0%20Hackathon-Generation%20Alpha%20·%20Square%20Hub%20·%20Microsoft%20|%20May%202026-0d1b3e?style=flat-square&labelColor=0d1b3e&color=7eb8f7"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🥉%203rd%20Place-ICT%20Students%20Competition%20Divisional%20Level%20|%202017-0d1b3e?style=flat-square&labelColor=0d1b3e&color=7eb8f7"/>
+</p>
+
+---
+
+## 〈 Connect 〉
+
+<p align="center">
+  <a href="mailto:navindu691@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1b3e?style=flat-square&logo=gmail&logoColor=ff4444"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/navindu-ranasinghe-a7b287329">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1b3e?style=flat-square&logo=linkedin&logoColor=0a66c2"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/NavinduRanasinghe691">
+    <img src="https://img.shields.io/badge/GitHub-0d1b3e?style=flat-square&logo=github&logoColor=ffffff"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/channel/UCwXV8yXrcAnnfd_3HB5ry6w">
+    <img src="https://img.shields.io/badge/YouTube-0d1b3e?style=flat-square&logo=youtube&logoColor=ff0000"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/navindu.ranasinghe">
+    <img src="https://img.shields.io/badge/Facebook-0d1b3e?style=flat-square&logo=facebook&logoColor=1877f2"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NavinduRanasinghe691&style=flat-square&color=0d1b3e&label=Profile+Views&labelColor=0d1b3e"/>
+</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1b3e,100:0a0f1e&height=100&section=footer" width="100%"/>
+</div>
