@@ -119,16 +119,14 @@ width="100%"
 <img src="https://img.shields.io/badge/Spring%20Boot-020617?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/C%23-020617?style=for-the-badge&logo=csharp&logoColor=9B59F7"/>
 <img src="https://img.shields.io/badge/ASP.NET%20Core-020617?style=for-the-badge&logo=dotnet&logoColor=9B59F7"/>
-
 <br/>
-
+### 💻 TOOLS
 <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 <img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
-
 <br/>
-
+### 💻 Desings
 <img src="https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/Laravel-020617?style=for-the-badge&logo=laravel&logoColor=FF4444"/>
 <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=FFD43B"/>
