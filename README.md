@@ -91,18 +91,6 @@
 
 ---
 
-## 〈 Featured Projects 〉
-
-<div align="center">
-
-| Project | Stack | Description |
-|:---|:---|:---|
-| 🗺️ **MYTOUR Buddy** | `Next.js` `Spring Boot` `MongoDB` `JWT` | Map-based Sri Lanka tour guide platform |
-| 🏥 **ApexHire** | `React` `ASP.NET Core` `SQL Server` `JWT` | Full recruitment management system |
-| 🌿 **Baburugama Ayurvedic** | `CorelDraw` `Canva` | Trilingual product brand & labeling system |
-| 🎬 **Naviyaa YouTube** | `DaVinci Resolve` `Adobe Audition` | Cinematic Sri Lanka travel content |
-
-</div>
 
 ## 〈 Featured Projects 〉
 
