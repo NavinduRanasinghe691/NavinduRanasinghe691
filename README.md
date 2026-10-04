@@ -406,83 +406,8 @@ width="100%"
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🏆%20UNSCRIPTED%201.0-Participant%20%26%20Pitch%20Presenter-020617?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🥉%203rd%20Place-ICT%20Students%20Competition%20·%20Divisional%20Level-020617?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
-
-</div>
-
-<br>
 
 
-<!-- ========================================================= -->
-<!--                     BEYOND CODE                            -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:061A40,100:0A3D62&height=65&section=header&text=%E3%80%88%20BEYOND%20CODE%20%E3%80%89&fontSize=24&fontColor=FFFFFF&fontAlignY=55&stroke=7EB8F7&strokeWidth=1"
-width="100%"
-/>
-
-</div>
-
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/🎸%20Acoustic%20Guitar-020617?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
-<img src="https://img.shields.io/badge/🎵%20Music%20Production-020617?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
-<img src="https://img.shields.io/badge/🎬%20Video%20Production-020617?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
-<img src="https://img.shields.io/badge/🎨%20Creative%20Design-020617?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📍%20Sri%20Lanka-020617?style=flat-square&labelColor=020617&color=7EB8F7"/>
-
-</p>
-
-<div align="center">
-
-> **Technology gives me the tools. Creativity gives me the direction.**
-
-</div>
-
-<br>
-
-
-<!-- ========================================================= -->
-<!--              AVAILABLE FOR OPPORTUNITIES                  -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:061A40,100:0A3D62&height=65&section=header&text=%E3%80%88%20AVAILABLE%20FOR%20OPPORTUNITIES%20%E3%80%89&fontSize=24&fontColor=FFFFFF&fontAlignY=55&stroke=7EB8F7&strokeWidth=1"
-width="100%"
-/>
-
-</div>
-
-<br>
-
-<p align="center">
-
-<img
-src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&duration=3000&pause=1200&color=7EB8F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Internships;Full-Stack+Development+Opportunities;Junior+Software+Engineering+Roles;Let's+Build+Something+Meaningful+Together"
-alt="Opportunities"
-/>
-
-</p>
-
-<br>
 
 
 <!-- ========================================================= -->
