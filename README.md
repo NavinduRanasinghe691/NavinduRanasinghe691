@@ -247,7 +247,7 @@ A mobile application concept that calculates the best side of a bus to sit on ba
 
 <td width="50%" valign="top">
 
-## 🏠 BODIM
+## 🏠 HODAMA THENA
 
 **Boarding & Accommodation Platform**
 
