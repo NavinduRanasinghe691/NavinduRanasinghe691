@@ -18,15 +18,35 @@
 
 <div align="center">
 
-```text
-🎓  BSc (Hons) Computer Science  —  NSBM Green University
-💼  Full-Stack Dev  ·  UI/UX Designer  ·  Content Creator
-🎸  Singer  ·  Guitarist  ·  Music Producer
-📺  Naviyaa YouTube Channel
-✉️  navindu691@gmail.com
-```
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left">
 
-> *"Where technology meets creativity — I code, design, and create with passion."*
+&nbsp;&nbsp;&nbsp;🎓 &nbsp;**BSc (Hons) Computer Science** &nbsp;—&nbsp; NSBM Green University
+&nbsp;&nbsp;&nbsp;💼 &nbsp;Full-Stack Dev &nbsp;·&nbsp; UI/UX Designer &nbsp;·&nbsp; Content Creator
+&nbsp;&nbsp;&nbsp;🎸 &nbsp;Singer &nbsp;·&nbsp; Guitarist &nbsp;·&nbsp; Music Producer
+&nbsp;&nbsp;&nbsp;📺 &nbsp;Naviyaa YouTube Channel
+&nbsp;&nbsp;&nbsp;✉️ &nbsp;navindu691@gmail.com
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎓%20NSBM%20Green%20University-BSc%20Computer%20Science-0d1b3e?style=flat-square&labelColor=0d1b3e&color=0d1b3e&logoColor=7eb8f7"/>
+&nbsp;
+<img src="https://img.shields.io/badge/💼%20Full--Stack%20Dev-UI%2FUX%20·%20Content%20Creator-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎸%20Singer-Guitarist%20·%20Music%20Producer-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📺%20Naviyaa-YouTube%20Channel-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/✉️%20navindu691%40gmail.com-Contact-0d1b3e?style=flat-square&labelColor=0d1b3e"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=15&pause=2000&color=7EB8F7&center=true&vCenter=true&width=700&lines=%22Where+technology+meets+creativity+%E2%80%94+I+code%2C+design%2C+and+create+with+passion.%22" alt="Quote"/>
 
 </div>
 
