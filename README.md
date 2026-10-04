@@ -92,7 +92,16 @@
 ---
 
 
-## 〈 Featured Projects 〉
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:061A40,100:0A3D62&height=65&section=header&text=%E3%80%88%20PROJECTS%20%E3%80%89&fontSize=24&fontColor=FFFFFF&fontAlignY=55&stroke=7EB8F7&strokeWidth=1"
+width="100%"
+/>
+
+</div>
+
+<br>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&pause=2000&color=7EB8F7&center=true&vCenter=true&width=600&lines=Engineering+·+UI%2FUX+·+Mobile+·+Creative+Projects" alt="Projects"/>
