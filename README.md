@@ -183,7 +183,41 @@ A full-stack recruitment management platform for managing candidates, vacancies,
 
 `Figma` `UI/UX` `Prototyping` `Usability`
 
-A redesigned railway experience focused on improving live train information, navigation, accessibility and overall usability.
+A redesigned railway experience focused on ## 〈 Featured Projects 〉
+
+<div align="center">
+
+### Selected Work · Engineering · UI/UX · Creative
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<!-- RDMNS -->
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img
+src="YOUR_RDMNS_IMAGE_URL"
+width="100%"
+alt="RDMNS.LK Live Train Alerts"
+/>
+
+</div>
+
+<br>
+
+## 🚆 RDMNS.LK
+
+**Live Train Alerts · UI/UX Redesign**
+
+`Figma` `UI/UX` `Prototyping` `Usability`
+
+A modern railway experience designed to improve live train information, navigation, accessibility and overall usability.
 
 **Focus**
 
@@ -192,12 +226,25 @@ A redesigned railway experience focused on improving live train information, nav
 <br>
 
 <a href="YOUR_RDMNS_REPO_OR_DESIGN_URL">
-<img src="https://img.shields.io/badge/View_Project-0A3D62?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0A3D62?style=for-the-badge&logo=figma&logoColor=white"/>
 </a>
 
 </td>
 
+<!-- CORECONNECT -->
 <td width="50%" valign="top">
+
+<div align="center">
+
+<img
+src="YOUR_CORECONNECT_IMAGE_URL"
+width="100%"
+alt="CoreConnect"
+/>
+
+</div>
+
+<br>
 
 ## 🔗 CoreConnect
 
@@ -205,7 +252,7 @@ A redesigned railway experience focused on improving live train information, nav
 
 `React` `JavaScript` `REST API` `UI/UX`
 
-A modern web platform focused on connecting users through a clean interface and structured digital experience.
+A modern web platform focused on connecting users through a clean interface, structured experience and responsive design.
 
 **Focus**
 
@@ -214,7 +261,7 @@ A modern web platform focused on connecting users through a clean interface and 
 <br>
 
 <a href="YOUR_CORECONNECT_REPO_URL">
-<img src="https://img.shields.io/badge/View_Repository-0A3D62?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0A3D62?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -223,7 +270,20 @@ A modern web platform focused on connecting users through a clean interface and 
 
 <tr>
 
+<!-- SUNSIDE -->
 <td width="50%" valign="top">
+
+<div align="center">
+
+<img
+src="YOUR_SUNSIDE_IMAGE_URL"
+width="100%"
+alt="SunSide"
+/>
+
+</div>
+
+<br>
 
 ## ☀️ SunSide
 
@@ -231,21 +291,34 @@ A modern web platform focused on connecting users through a clean interface and 
 
 `Flutter` `Dart` `UI/UX` `Algorithms`
 
-A mobile application concept that calculates the best side of a bus to sit on based on the sun's position, travel direction and time.
+A smart mobile application concept that calculates the best side of a bus to sit on based on the sun's position, travel direction and time.
 
 **Focus**
 
-`Flutter` · `Dart` · `Logic` · `Animation`
+`Flutter` · `Dart` · `Algorithms` · `Animation`
 
 <br>
 
 <a href="YOUR_SUNSIDE_REPO_URL">
-<img src="https://img.shields.io/badge/View_Repository-0A3D62?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0A3D62?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
+<!-- HODAMA THENA -->
 <td width="50%" valign="top">
+
+<div align="center">
+
+<img
+src="YOUR_HODAMA_THENA_IMAGE_URL"
+width="100%"
+alt="HODAMA THENA"
+/>
+
+</div>
+
+<br>
 
 ## 🏠 HODAMA THENA
 
@@ -253,7 +326,7 @@ A mobile application concept that calculates the best side of a bus to sit on ba
 
 `Flutter` `Dart` `Firebase` `UI/UX`
 
-A mobile platform concept for discovering and managing boarding and accommodation options with a simple user experience.
+A mobile platform designed to help users discover, explore and manage boarding and accommodation options through a simple digital experience.
 
 **Focus**
 
@@ -261,8 +334,8 @@ A mobile platform concept for discovering and managing boarding and accommodatio
 
 <br>
 
-<a href="YOUR_BODIM_REPO_URL">
-<img src="https://img.shields.io/badge/View_Repository-0A3D62?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="YOUR_HODAMA_THENA_REPO_URL">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0A3D62?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -271,7 +344,20 @@ A mobile platform concept for discovering and managing boarding and accommodatio
 
 <tr>
 
+<!-- BABURUGAMA -->
 <td width="50%" valign="top">
+
+<div align="center">
+
+<img
+src="YOUR_BABURUGAMA_IMAGE_URL"
+width="100%"
+alt="Baburugama Ayurvedic"
+/>
+
+</div>
+
+<br>
 
 ## 🌿 Baburugama Ayurvedic
 
@@ -279,21 +365,34 @@ A mobile platform concept for discovering and managing boarding and accommodatio
 
 `CorelDRAW` `Canva` `UI/UX`
 
-A trilingual visual identity and product-labeling system created for a Sri Lankan Ayurvedic brand.
+A refined trilingual visual identity and product-labeling system created for a Sri Lankan Ayurvedic brand.
 
 **Focus**
 
-`Branding` · `UI/UX` · `Creative Design`
+`Branding` · `UI/UX` · `Visual Design`
 
 <br>
 
 <a href="YOUR_BABURUGAMA_LINK">
-<img src="https://img.shields.io/badge/View_Project-0A3D62?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0A3D62?style=for-the-badge&logo=canva&logoColor=white"/>
 </a>
 
 </td>
 
+<!-- NAVIYAA -->
 <td width="50%" valign="top">
+
+<div align="center">
+
+<img
+src="YOUR_NAVIYAA_IMAGE_URL"
+width="100%"
+alt="Naviyaa"
+/>
+
+</div>
+
+<br>
 
 ## 🎬 Naviyaa
 
@@ -309,13 +408,14 @@ A cinematic travel and creative-media project focused on Sri Lankan locations, e
 
 <br>
 
-<a href="YOUR_NAVIIYAA_LINK">
-<img src="https://img.shields.io/badge/Visit_Channel-0A3D62?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="YOUR_NAVIYAA_LINK">
+<img src="https://img.shields.io/badge/VISIT_CHANNEL-0A3D62?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
 <br>
@@ -326,9 +426,11 @@ A cinematic travel and creative-media project focused on Sri Lankan locations, e
 
 **From full-stack applications to mobile products and human-centered interfaces.**
 
-</div>
-</div>
+<br>
 
+`FULL-STACK` · `MOBILE` · `UI/UX` · `SOFTWARE ENGINEERING`
+
+</div>
 ---
 
 ## 〈 GitHub Stats 〉
