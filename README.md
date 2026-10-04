@@ -145,11 +145,6 @@ width="100%"
 <!-- ========================================================= -->
 
 ### 💻 Databases
-<div align="center">
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:061A40,100:0A3D62&height=65&section=header&text=%E3%80%88%20DATABASES%20%26%20DEVOPS%20%E3%80%89&fontSize=24&fontColor=FFFFFF&fontAlignY=55&stroke=7EB8F7&strokeWidth=1"
-width="100%"
-/>
 
 </div>
 
@@ -181,10 +176,6 @@ width="100%"
 
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:061A40,100:0A3D62&height=65&section=header&text=%E3%80%88%20DESIGN%20%26%20CREATIVE%20%E3%80%89&fontSize=24&fontColor=FFFFFF&fontAlignY=55&stroke=7EB8F7&strokeWidth=1"
-width="100%"
-/>
 
 </div>
 
