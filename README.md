@@ -21,15 +21,8 @@ alt="Typing"
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/BSc%20(Hons)%20Computer%20Science-NSBM%20Green%20University-0d1b3e?style=flat-square&labelColor=020617&color=7EB8F7"/>
-
-&nbsp;
-
 <img src="https://img.shields.io/badge/Full--Stack%20Development-Software%20Engineering-0d1b3e?style=flat-square&labelColor=020617&color=7EB8F7"/>
-
-&nbsp;
-
 <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Opportunities-0d1b3e?style=flat-square&labelColor=020617&color=6DB33F"/>
 
 </p>
