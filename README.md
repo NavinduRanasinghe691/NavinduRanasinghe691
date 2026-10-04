@@ -22,7 +22,7 @@
 <tr>
 <td align="left">
 
-&nbsp;&nbsp;&nbsp;🎓 &nbsp;**BSc (Hons) Computer Science** &nbsp;—&nbsp; NSBM Green University
+&nbsp;&nbsp;&nbsp;🎓 &nbsp;**BSc (Hons) Computer Science** &nbsp;—&nbsp; NSBM Green University<br>
 &nbsp;&nbsp;&nbsp;💼 &nbsp;Full-Stack Dev &nbsp;·&nbsp; UI/UX Designer &nbsp;·&nbsp; Content Creator
 &nbsp;&nbsp;&nbsp;🎸 &nbsp;Singer &nbsp;·&nbsp; Guitarist &nbsp;·&nbsp; Music Producer
 &nbsp;&nbsp;&nbsp;📺 &nbsp;Naviyaa YouTube Channel
