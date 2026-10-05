@@ -71,15 +71,11 @@ My main engineering focus is:
 </td>
 
 <td width="35%" align="center">
-<br>
-<img src="https://img.shields.io/badge/🎓%20Computer%20Science-NSBM-0d1b3e?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/💻%20Full--Stack-Engineering-0d1b3e?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/📱%20Mobile-Flutter-0d1b3e?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/🎨%20Creative-Design%20%26%20Media-0d1b3e?style=for-the-badge&labelColor=020617&color=7EB8F7"/>
-</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://avatars.githubusercontent.com/NavinduRanasinghe691" 
+     width="200px" 
+     style="border-radius: 50%; border: 3px solid #7EB8F7;"/>
 
 </tr>
 </table>
