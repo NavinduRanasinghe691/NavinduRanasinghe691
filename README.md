@@ -70,13 +70,12 @@ My main engineering focus is:
 
 </td>
 
-<td width="35%" align="center">
 <td width="40%" align="center" valign="middle">
 
 <img src="https://avatars.githubusercontent.com/NavinduRanasinghe691" 
-     width="200px" 
-     style="border-radius: 50%; border: 3px solid #7EB8F7;"/>
-
+     width="180" 
+     height="180" 
+     style="border-radius:50%"/>
 </tr>
 </table>
 
