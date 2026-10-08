@@ -16,7 +16,8 @@ width="100%"
 <img
 src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1200&color=7EB8F7&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;C%23+%7C+ASP.NET+Core+%7C+PHP+%7C+Laravel;Flutter+%7C+Docker+%7C+Databases;Building+Scalable+Systems+%26+Elegant+Digital+Experiences"
 alt="Typing"
-/>
+
+
 
 </p>
 
