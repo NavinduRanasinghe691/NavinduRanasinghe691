@@ -189,8 +189,7 @@ flowchart LR
 | 🗄️ | **SQL Basic** | HackerRank |
 | 🎓 | **Microsoft Student Ambassadors Event** | Participation |
 | 🛠️ | **DevForge Workshop** | IEEE SkillShare, participation |
-
-<img src="assets/h-connect.png" width="100%" alt="07 Let's connect" />
+connect" />
 
 <div align="center">
 
